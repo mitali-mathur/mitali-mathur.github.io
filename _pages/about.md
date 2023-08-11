@@ -18,6 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am an inspiring economist whose interests lie at the intersection of migration, development, and labor.
 
-Prior to beginning my Ph.D. in economics, I spent time working on research projects in the development sector. I have spent time living in Kenya and India and have worked on research projects related to migration, health, data quality, behavioral nudges, and gender equality. 
+Prior to beginning my Ph.D. in economics, I spent time working on research projects in the development sector. I have spent time working in India and Kenya on research projects related to migration, health, data quality, behavioral nudges, and gender equality. 
 
-Personally, I enjoy traveling, hiking, playing ultimate frisbee, and scuba diving.
+I enjoy traveling, hiking, playing ultimate frisbee, and scuba diving.
