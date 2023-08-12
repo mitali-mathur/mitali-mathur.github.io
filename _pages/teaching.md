@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+---
 <b> UC Davis </b>
 
 <li>ECN 1A: Principles of Microeconomics – Professor: Gregory Clark</li>
@@ -21,5 +22,5 @@ nav_order: 3
 
 <b> Georgetown University </b>
 
-<li>ECN 156: Poverty & Inequality ¬– Professor: Martin Ravallion</li>
+<li>ECN 156: Poverty & Inequality – Professor: Martin Ravallion</li>
 
