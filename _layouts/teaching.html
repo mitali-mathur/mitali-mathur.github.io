@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<!-- _layouts/teaching.html -->
+<div class="post">
+
+  <article>
+    <div class="teaching">
+      {% for data in site.data.teaching %}
+        {% if site.jsonteaching and site.jsonteaching.size > 0 %}
+          {% unless site.jsonteaching contains data[0] %}
+            {% continue %}
+          {% endunless %}
+        {% endif %}
+        {% if data[0] == "meta" or data[1].size == 0 %}
+          {% continue %}
+        {% endif %}
+        <a class="anchor" id="{{ data[0] }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+          <div>
+          {% case data[0] %}
+            {% when "UC Davis" %}
+              {% include teaching/UC Davis.html %}
+            {% when "Georgetown University" %}
+              {% include teaching/Georgetown University.html %}
+          {% endcase %}
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+  </article>
+
+</div>
+{% endunless %}
