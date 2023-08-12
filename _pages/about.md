@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 2nd year Economics Ph.D. student at UC Davis
 

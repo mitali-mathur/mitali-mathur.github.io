@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Below are the courses I have been a teaching assistant for
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-UC Davis
+<b> UC Davis </b>
 
 <li>ECN 1A: Principles of Microeconomics – Professor: Gregory Clark</li>
 
@@ -17,8 +17,9 @@ UC Davis
 
 <li>ECN 115B: Economic Development – Instructor: Soccoro Pardo Martinez</li>
 
+---
 
-Georgetown University
+<b> Georgetown University </b>
 
 <li>ECN 156: Poverty & Inequality ¬– Professor: Martin Ravallion</li>
 
