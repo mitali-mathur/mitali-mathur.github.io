@@ -8,10 +8,22 @@ nav_order: 5
 ---
 
 UC Davis
-•	ECN 1A: Principles of Microeconomics – Professor: Gregory Clark
-•	ECN 1B: Principles of Macroeconomics – Professor: Nicolas Caramp
-•	ECN 101: Intermediate Macroeconomic Theory – Professor: Paul Bergin
-•	ECN 115B: Economic Development – Instructor: Soccoro Pardo Martinez
+
+<ul style=“list-style-type:square”>
+
+<li>ECN 1A: Principles of Microeconomics – Professor: Gregory Clark</li>
+
+<li>ECN 1B: Principles of Macroeconomics – Professor: Nicolas Caramp</li>
+
+<li>ECN 101: Intermediate Macroeconomic Theory – Professor: Paul Bergin</li>
+
+<li>ECN 115B: Economic Development – Instructor: Soccoro Pardo Martinez</li>
+
+</ul>
 
 Georgetown University
-•	ECN 156: Poverty & Inequality ¬– Professor: Martin Ravallion
+<ul style=“list-style-type:square”>
+
+<li>ECN 156: Poverty & Inequality ¬– Professor: Martin Ravallion</li>
+
+</ul>
