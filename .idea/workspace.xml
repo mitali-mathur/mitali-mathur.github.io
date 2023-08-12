@@ -6,24 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f027e822-59f5-4782-b9cd-f19e5e872a15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-15-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-disqus-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-20-math.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-22-distill.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-github-metadata.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-twitter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-07-04-diagrams.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-01-redirect.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-12-10-giscus-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-21-tables.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-24-videos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-25-audios.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-25-sidebar-table-of-contents.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-05-12-custom-blockquotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-07-04-jupyter-notebook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-07-12-post-bibliography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
