@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+UC Davis
+•	ECN 1A: Principles of Microeconomics – Professor: Gregory Clark
+•	ECN 1B: Principles of Macroeconomics – Professor: Nicolas Caramp
+•	ECN 101: Intermediate Macroeconomic Theory – Professor: Paul Bergin
+•	ECN 115B: Economic Development – Instructor: Soccoro Pardo Martinez
 
-Organize your courses by years, topics, or universities, however you like!
+Georgetown University
+•	ECN 156: Poverty & Inequality ¬– Professor: Martin Ravallion
