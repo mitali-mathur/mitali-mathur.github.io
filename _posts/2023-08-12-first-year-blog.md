@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sidebar Blog
+title: Flourishing in the First Year
 date: 2023-08-12
 description: A practical guide to completing the First Year of an Econ PhD program from the organizationally obsessed
 tags: formatting toc sidebar
