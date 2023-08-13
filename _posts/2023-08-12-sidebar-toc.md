@@ -2,7 +2,7 @@
 layout: post
 title: Flourishing in the First Year
 date: 2023-08-12
-description: an example of a blog post with table of contents on a sidebar
+description: A practical guide to completing the First Year of an Econ PhD program from the organizationally obsessed
 tags: formatting toc sidebar
 categories: sample-posts
 giscus_comments: true
