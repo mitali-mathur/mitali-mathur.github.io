@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
-date: 2023-04-25 10:14:00-0400
+title: Flourishing in the First Year
+date: 2023-08-12
 description: an example of a blog post with table of contents on a sidebar
 tags: formatting toc sidebar
 categories: sample-posts
