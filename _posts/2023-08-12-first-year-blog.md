@@ -28,9 +28,11 @@ Going back to school for me was hard. I did not have a Masters degree, did not d
 I gave myself a month between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
 
 Based on my experience retrospectively, I think the three most important concepts to refresh before math camp are:
-<li> Matrix algebra and the definiteness of matrices </li>
-<li> Proof methods </li>
-<li> Constrained optimization </li>
+<ul>
+  <li> Matrix algebra and the definiteness of matrices </li>
+  <li> Proof methods </li>
+  <li> Constrained optimization </li>
+</ul>
 
 ### Math Camp
 Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to get to know my peers. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
@@ -42,11 +44,13 @@ Lastly, I enjoyed math camp because it gave me an opportunity to try out differe
 The first day of each class felt great! I felt like I understood what was going on and concepts were familiar. What a false sense of confidence I gave myself… The slow-start was short lived because we immediately began learning at a very different pace than I had experienced before. 
 
 A few things were different compared to how I learned in undergrad.
-<li> <b>Applications:</b> There was less of an emphasis in class on solving problems than what I was used to. We had a lot of material to cover and it was completely understandable that professors went through the theory in class and leveraged problem sets and discussion sections to give us opportunities to apply the concepts we learned. For me, this was a bit challenging because I did not directly compare the general notation/definitions to specific applications/examples, so sometimes struggled to understand the purpose of the theory we were learning at the time. </li>
-<li> <b>Problem set breadth:</b> There were some elements of problem sets that were extremely challenging. In undergrad, I was used to problems being somewhat adjacent to problems we covered in class. In this program, there were some problems I saw that I had no idea how to even start or attempt since they were so different from the examples in class or textbook problems. This made me realize that understanding core concepts was more important than solving problems – you can’t just learn how to regurgitate a solution to a problem similar to one you’ve seen before, you need to understand the concepts well enough that if you see something completely new, you have the foundations to arrive at a unique solution. </li>
-<li> <b>Predictability:</b> In undergrad, I felt that it was a pretty sure bet that we would be tested on specific concepts. There would be one problem on each topic/theme/model covered, so while I studied every topic and tried to ace all parts of a test, I knew that if I was a little stuck on one part, I could still do well overall. The models we learned in the PhD were so complex that in a test, we could only be tested on one or two concepts, but expected to know all - which made it difficult to study for tests. </li>
-<li> <b>Optional work:</b> In most of our classes, our grades were solely based on a midterm and final, though some grades incorporated problem sets. There were sometimes optional problem sets that were ungraded. I would always attempt the optional work assigned to us, but sometimes would not spend as much time/effort on them or go out of my way to find additional practice beyond what professors recommended. </li>
-<li> <b>The quarter system:</b> The quarter system at UC Davis was such a shock for me. Coming from a school that ran on semesters, I was not used to the lack of breaks within each quarter. For example, there was no time to “catch-up” during Spring break - just a break in between two quarters. </li>
+<ul>
+  <li> <b>Applications:</b> There was less of an emphasis in class on solving problems than what I was used to. We had a lot of material to cover and it was completely understandable that professors went through the theory in class and leveraged problem sets and discussion sections to give us opportunities to apply the concepts we learned. For me, this was a bit challenging because I did not directly compare the general notation/definitions to specific applications/examples, so sometimes struggled to understand the purpose of the theory we were learning at the time. </li>
+  <li> <b>Problem set breadth:</b> There were some elements of problem sets that were extremely challenging. In undergrad, I was used to problems being somewhat adjacent to problems we covered in class. In this program, there were some problems I saw that I had no idea how to even start or attempt since they were so different from the examples in class or textbook problems. This made me realize that understanding core concepts was more important than solving problems – you can’t just learn how to regurgitate a solution to a problem similar to one you’ve seen before, you need to understand the concepts well enough that if you see something completely new, you have the foundations to arrive at a unique solution. </li>
+  <li> <b>Predictability:</b> In undergrad, I felt that it was a pretty sure bet that we would be tested on specific concepts. There would be one problem on each topic/theme/model covered, so while I studied every topic and tried to ace all parts of a test, I knew that if I was a little stuck on one part, I could still do well overall. The models we learned in the PhD were so complex that in a test, we could only be tested on one or two concepts, but expected to know all - which made it difficult to study for tests. </li>
+  <li> <b>Optional work:</b> In most of our classes, our grades were solely based on a midterm and final, though some grades incorporated problem sets. There were sometimes optional problem sets that were ungraded. I would always attempt the optional work assigned to us, but sometimes would not spend as much time/effort on them or go out of my way to find additional practice beyond what professors recommended. </li>
+  <li> <b>The quarter system:</b> The quarter system at UC Davis was such a shock for me. Coming from a school that ran on semesters, I was not used to the lack of breaks within each quarter. For example, there was no time to “catch-up” during Spring break - just a break in between two quarters. </li>
+</ul>
 
 These differences made it difficult for me to be academically successful at the start of my PhD, but over time, I learned how to adjust and felt more engaged and confident in later quarters.
 
@@ -56,18 +60,23 @@ The first test I ever took made me think I would completely fail out. I studied 
 I then completely pivoted my approach to studying and figured out that for me, an organized and structured approach to studying was most useful. I applied a lot of organizational study tools and techniques to help and saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
 
 The main tools I used to study (pretty standard…) were:
-<li> <b>Class notes & lecture notes/slides:</b> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
-<li> <b>Problem sets:</b> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
-<li> <b>Textbook questions:</b> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
-<li> <b> Past exams/prelims:</b> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
-<li> <b>Papers:</b> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
+<ul>
+  <li> <b>Class notes & lecture notes/slides:</b> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
+  <li> <b>Problem sets:</b> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
+  <li> <b>Textbook questions:</b> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
+  <li> <b> Past exams/prelims:</b> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
+  <li> <b>Papers:</b> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
+</ul>
 
 Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it didn’t directly tackle the challenges above and was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
 
 The main techniques I used to stay organized while studying were:
-
-<li>Thematic study plan: I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
-  <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. The problem for me is that when I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I continue and I suddenly see that in the 2019 final, there is a question that is kind of related to model #1. It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
-  <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand model #1 and compare/contrast different applications of the model. Then, I can move onto model #2 etc. </li>
-  <li> Example, this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
-</li>
+<ul>
+  <li>Thematic study plan: I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
+  <ul>
+    <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. The problem for me is that when I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I continue and I suddenly see that in the 2019 final, there is a question that is kind of related to model #1. It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
+    <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand model #1 and compare/contrast different applications of the model. Then, I can move onto model #2 etc. </li>
+    <li> Example, this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
+  </ul> 
+  </li>
+</ul>
