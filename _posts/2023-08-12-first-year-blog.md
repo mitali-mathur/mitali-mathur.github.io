@@ -72,11 +72,144 @@ Again, everyone has their own way of studying that works! For me, my previous ap
 
 The main techniques I used to stay organized while studying were:
 <ul>
-  <li>Thematic study plan: I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
+  <li><b>Thematic study plan:</b> I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
   <ul>
-    <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. The problem for me is that when I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I continue and I suddenly see that in the 2019 final, there is a question that is kind of related to model #1. It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
+    <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I suddenly see that in the 2019 final, there is a question that is kind of related to model #1? It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
     <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand model #1 and compare/contrast different applications of the model. Then, I can move onto model #2 etc. </li>
     <li> Example, this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
   </ul> 
   </li>
+  <li> <b>Study guides:</b> After we finished learning each topic, I would work on making a study guide to capture the basic, foundational ideas of what we learned. I mainly focused on including simple definitions, formulas, intuition, and problem-solving approaches. I found the act of making them to be very useful in ensuring I understood the basic foundations of each model, was able to compare and contrast different model features, and helpful in creating a plethora of “refresher resources” I could use months later while studying for prelims.
+  <ul>
+    <li> These study guides are foundational in that they do not include deep-dives into every single way each model/topic can be applied. They aren’t pretty or typed into Latex. They’re just basic notes to understand basic concepts. </li>
+    <li> All of my study guides can be found in the resources section! </li>
+  </ul>
+  </li>
+  <li> <b>Study groups:</b> I utilized studying with my peers when I could and formed a study-group with others who were interested in group studying. Here’s how it worked for us:
+  <ul>
+    <li> About 2 weeks before each exam, I would make a spreadsheet of some past exam questions that would be good practice. Example. </li>
+    <li> We would each “sign-up” to be responsible for certain past exams, solve the exam, and upload our solution to a Google Drive. </li>
+    <li> We would all still study everything we wanted to at our own pace (including solving past exams that were “assigned” to other people), but would meet once to briefly go over anything we wanted to emphasize from what was assigned to us. </li>
+    <li> The benefits were two-fold. (1) As we were working and studying at our own pace, we could check our solutions against each other’s and ask questions/discuss differences. This was especially helpful when there were not any provided solutions from the professor. (2) We had a dedicated time to chat about things we were confused about or wanted to highlight as tricky/interesting. </li>
+    <li> As the year progressed, we did not meet all too frequently, but some folks continued the practice of uploading solutions and we all were able to discuss challenging questions/compare solutions in a more fluid manner in our offices.</li>
+  </ul>
+  </li>
+  <li> <b>Office hours:</b> I loved going to office hours. I was at first intimidated at first that my questions were too silly/basic, but after not doing well on my first test, it sunk in that it’s better to ask and be honest than to not. I strategically would go to our TA’s office hours when my questions were more minor/specific to a particular problem and to our professor’s office hours when I had broader questions. I also benefited from others being in office hours who had similar questions or asked questions I could ask follow-ups to. </li>
+  <li> <b>What-if thinking:</b> By utilizing the techniques above, I began to be more excited about the concepts we were learning and tried to implement some “what-if” thinking to see how problems changed in different contexts/under different assumptions. I would ask myself (or a peer), “what if instead of ___, we had ____?”
+  <ul>
+    <li> Solving problems in a thematic way made me more cognizant and interested in ways in which the concepts we learned could be applied. Working in groups allowed me to bounce off other ideas to think of these questions. Reading papers also helped me discover new applications and appreciate the concepts we were learning better.  </li>
+    <li> Asking these what-if questions while studying helped me check that I understood the <i>core concepts</i> and made me more prepared in seeing each concept we learned applied in different ways. When we are tested or doing our own research, we will be solving something new and contributing to the field. “What-if” thinking helps immediately with solving problems on tests we’ve never seen before and prepares us better for doing research in later years. </li>
+   </ul>
+  </li>
 </ul>
+
+### Prelims Preparation
+A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after passing themselves! Prelims are tough! If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
+
+We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep and taking very short breaks throughout the day. It was really a month of eat, study econ, sleep, repeat. 
+
+I began preparing for prelims over Spring break, around 10 weeks before our first prelim. 
+<ul>
+  <li> <b>Studying:</b> I utilized the same five techniques as described above to study.
+  <ul>
+    <li> Over Spring Break, I drafted a prelims plan (the “Timeline” tab here) in which I divided up, week by week, which <i>topics</i> I wanted to focus on. Then, I would get to it and solve past preliminary exam questions, past midterms/finals, and past problem set questions. Since we still had coursework for the Spring quarter, I studied for the content on Spring exams by doing past prelims on those topics. I wasn’t always able to stick to my plan, but I tried my best and prioritized where I could.  </li>
+    <li> I found the thematic plan for each subject to be very useful and it ensured that I was indeed covering my bases and not skipping reviewing any concept. Since the material on the prelims covered the entire year across all three subjects, it was very important to me that I knew exactly what could be covered and how I could practice. See the (“Micro - List”, “Macro - List”, and “Metrics - List” on this prelim planning sheet I used as an example). </li>
+    <li> The planning also helped illustrate which models were <i>emphasized</i> more. Any time I tried to guess the topic of an exam, I was always wrong, so I did not expect that preliminary exams would be any more predictable. But it was still useful to see which models did show up more frequently. </li>
+  </ul>
+  </li>
+  <li> <b>Mock exams:</b> I found it <i>extremely helpful</i> to do “mock exams” to simulate what a prelim would look like. I did 2 mock exams before each prelim. For each mock, I would choose a past prelim exam that I thought was difficult/I had not done before (so it would be the first time solving those problems for me!). Then, I would go to the exact room we would take the exam in at the exact time of our exam, and take the exam in the time limit we would get. I brought a sheet of paper with me to take some random notes on my <i>experience</i> taking each exam.
+  <ul>
+    <li> I took note of the following:
+      <ul>
+        <li> The <b>temperature</b> of the room (this would help inform how I would dress on exam day) </li>
+        <li> Where the <b>clocks</b> were located (and if I should bring my own) </li>
+        <li> How <b>noisy</b> the room was (Were people walking by frequently? Was the AC noisy? Would ear plugs be useful?) </li>
+        <li> How my <b>body</b> was reacting (When did I get hungry? Should I bring more snacks than I did for the mock? How far were the bathrooms? Was I drinking enough water?) </li>
+        <li> How to manage my <b>papers</b> (Each question was roughly 5-10 letter-sized pages for me, so I needed to figure out how to manage those pages. I learned through a mock that I should bring paper clips for each question and binder clips for the full exam). </li>
+        <li> How much space the <b>desks</b> had (I learned from a mock that carrying a bunch of pens and pencils was overwhelming and I learned to bring a cup to keep all writing utensils in so I wouldn’t have to worry about them rolling off of my desk or taking up space) </li>
+        <li> <b>Time management</b> (How long did I take on each question? How did I utilize the reading period?) </li>
+        <li> <b>Chair</b> comfort (How comfortable are the chairs? Could I sit for 5 and a half hours comfortably or should I bring a cushion?) </li>
+      </ul>
+    </li>
+    <li> From a content perspective, the mock exams were very valuable in forcing me to think of problems without any references. While practicing, I would always try to solve problems without resources, but I did occasionally look at my notes or the answer keys when stuck so that I could save time studying. Taking exams without references forced me to practice taking my time while solving problems and practice adding notes about my intuition if I did not feel very strongly about a result. This in turn gave me the confidence that I could solve challenging problems independently and even if I got stuck, I could write something to show what I knew.  </li>
+    <li> The mocks were extremely useful in helping me feel confident and comfortable on exam day. I was prepared with what I needed to bring, how I should manage my pages, how I should spend my time, and how my body would feel. </li>
+  </ul>
+  </li>
+</ul>
+
+I can’t describe it, but as I was studying, beautiful moments happened where concepts “clicked” and some of the content we learned across classes started to intertwine in a way that helped me understand what we were learning more clearly. Persistence was key to finding these moments.
+
+### Prelims
+We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and spaced out by one week in between each exam. 
+
+<ul>
+  <li> <b>Day before:</b> The day before the prelim, I did not do any intense studying. I just reviewed my study guides and the past prelim solutions I had made. I shut off all studying by 7pm, ate a hearty dinner, and then got a good night’s rest. </li>
+  <li> <b>Day of:</b> I got to the exam early. For some exams, our seats were assigned, and for others, we had free seating. Since I had done mock exams in the rooms, I had a pretty good idea of where I wanted to sit for the exams with free seating. So it was nice to get to the exams early. Our exams were all anonymous and the department provided the paper we were supposed to write on. Getting there early allowed me to set up my desk (and cup of pens!), lay my snacks out under my seat, and put my unique identifier on each page (so I wouldn’t have to worry about it later!). 
+  <ul>
+    <li> During the exam itself, I tried to execute everything I learned from the mocks and stayed confident throughout.  </li>
+    <li> After the exam, I tried to not talk about it. It was done and there was nothing I could do to change what I wrote. There was no point in worrying or overthinking. </li>
+    <li> The exams were a lot more physically demanding than the mocks (probably because of the pressure and brain power used on the test), so I took the remaining time of the day to rest and recover, and only started for the next prelim the following day. </li>
+  </ul>
+  </li>
+</ul>
+
+Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. After going through the stress of studying for hours each day, I felt a great sense of confidence after passing them and am really looking forward to the next year of classes.
+
+## Social Reflections
+Everyone is different and values socializing in different ways - to each their own! Prior to the start of the PhD program, I led a pretty social lifestyle. I wasn’t going out and partying all the time, but I definitely found a lot of joy in being an activities-oriented person: traveling, hiking, playing board games, going to museums, going to parks/on walks, going over to other people’s homes, going out to eat etc. I knew that I would not be able to stay as active since my priority was to study, learn, and pass prelims, but I wanted to find ways to do activities I enjoyed as well. While the quantity of these social activities did decrease substantially, I was able to find ways to begin building social connections at Davis, and will continue to grow those next year. Below are a few things I did to help me begin building connections with others in the community.
+
+### Department Bonding
+I tried to attend every student-faculty and all-department event I could (especially if they weren’t around exam season!). For some events, there weren’t obligations to stay for the entire period of each event, so I navigated my attendance accordingly. But, I do think networking is extremely important and sometimes undervalued, so I wanted to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! I also just found everyone so interesting, so I was very excited to get to know everyone better (inside and outside of academia). Meeting upper year students was also really lovely because I now have friends going into the next year and can call on them for advice. 
+
+Below are some of the opportunities we had to bond with other students/faculty in the department:
+<ul>
+  <li> <b>Department parties:</b> The economics department hosted two main department-level events: a welcome party in the Fall and a spring party towards the end of the year. I really enjoyed meeting some professors and students from other years in the program. </li>
+  <li> <b>Coffee-Donut-Bagel:</b> The Graduate Students Association representatives from the economics department would host bi-quarterly morning events in which we could have breakfast and mingle with students and faculty. Some were for students and faculty, and some were for just students. I enjoyed attending these to meet new upper year students and begin to hear about what some professors are interested in researching and doing for fun! </li>
+  <li> <b>ARE-crossover events:</b> One of my fields of interest is development economics, so I actually was very excited about these crossover events as I knew I would interact with the ARE department in the future. We had two such events: one was a soccer tournament (the Cournot Cup) and the other was a bowling tournament. </li>
+  <li> <b>Department IM sports:</b> I did not participate in any intramural sports, but I know that many people enjoyed playing on intramural sports teams with faculty and students across different years. Our Economics department IM Soccer team even won last year! </li>
+  <li> <b>Holidays:</b> I tried to celebrate holidays with other people across all years. The first holiday I celebrated was Diwali, in which I connected with other South Asians and others interested in the holiday to celebrate. Although I traveled during Thanksgiving, Winter break, and Spring break, I still was able to have some meals with other students at the beginning/tail-end of these breaks, and I know that people who stayed in Davis set up chats to meet up with each other. </li>
+  <li> <b>Camping trips (UC Davis specific):</b> Every year, students in the economics department host a camping trip in Lake Tahoe. This was honestly one of the first ways I came to know some upper year students, who I later spent time with. There were other impromptu trips planned and mass-emails were sent out whenever someone had booked a campsite and had openings for others to join. </li>
+</ul>
+
+### Cohort Bonding
+I absolutely loved meeting people in our cohort. People were from all over the world - Argentina, Brazil, Chile, China, Colombia, India, Japan, Paraguay, Turkey, South Korea, USA. We set up a WhatsApp group so that everyone could stay connected and organize events. Some notable things we did were:
+
+<ul>
+  <li> <b>Birthdays:</b> At the beginning of the year, we set up a Google Doc where everyone could note down their birthdays. We all tried to message the WhatsApp group on people’s birthdays and for those that wanted to celebrate, they’d drop an open-invitation to celebrate at a restaurant. </li>
+  <li> <b>Yosemite Trip:</b> The majority of our cohort went on a trip to Yosemite National Park. We rented a house that could accommodate everyone and had a blast hanging out in the house and park (people split up doing different activities). </li>
+  <li> <b>Studying:</b> We were too many people to all study in a large group, but we had an active Google Drive where people posted resources and study tools, which we shared with one another. Many people formed study groups with their officemates. </li>
+</ul>
+
+### Community Friends
+From my experience working, I knew that for me, it was important to make friends outside of the program as well. 
+
+<ul>
+  <li> <b>Sports team:</b> I joined an Ultimate Frisbee (the sport I play!) community pick-up team that is composed of graduate students from different departments, adults, and some undergrads here and there. I found them through Google! I love playing with them and have been able to meet up with a few people outside the field! </li>
+  <li> <b>Roommates:</b> I chose to live with non-econ-PhD, but other graduate students so that I could make more friends outside of the department. While everyone is studious and respects/understands the studying we all do, we occasionally interact via watching movies, playing board games, and having dinner together. </li>
+  <li> <b>Extracurricular courses:</b> I know many people who took pottery classes, photography classes, yoga classes, rock-climbing courses, zumba classes etc. I did not join these classes during my first year and stuck with Ultimate Frisbee, but I am interested in trying some moving forward. </li>
+</ul>
+
+## Why I love UC Davis
+I am very happy to be studying at UC Davis. Since I am interested in migration economics, I think it is a great fit academically. Since I love the outdoors, I think it is a great fit location-wise. And since I really value team camaraderie, I think it is a great fit emotionally. 
+
+I was pleasantly surprised by how collaborative the environment was. All of the professors I met are extremely qualified, very knowledgeable, incredibly passionate about their research, and truly thoughtful in their teaching. I constantly felt encouraged and really appreciated the enthusiasm of everyone in the department. Students from other years shared resources and advice with our cohort. And our cohort tried to build on those resources to iterate for the next year. I always felt I could message a peer if I needed help understanding a concept or problem. I always felt that the professors were interested in how we were doing both academically and emotionally. As an added bonus, I LOVE living in California – I am able to ride a bicycle to commute 30 minutes a day and live in a place extremely accessible to nature (40 minutes to Napa, 1.5 hours to Tahoe, 1.5 hours to Yosemite!). 
+
+Despite all the all-day, every-day studying in first year, I am very happy that I was able to find small joys in everyday life. Below is a short snip-bit of one-second videos that highlight some fun aspects of my first year as a UC Davis economics PhD student. 
+
+# Routines
+1. Health - yoga, biking, frisbee, sleep
+2. Relationships - family, friends, cohort
+3. Development - seminars, mentorship, networking opps, news; what I’ve done
+4. Exam routines - prep, group studying, office hours, day of routine
+5. Budgeting - finance tracker, award monitoring
+
+# Resources
+General thoughts
+- resources: peers, office hours, grad center, department events
+- Tools to stay organized: iPad, Google drive, WhatsApp chat  
+
+Specific resources 
+1. Study guides 
+2. Prelim prep organizer
+3. Exam prep organizer
+4. What I’ve done template 
