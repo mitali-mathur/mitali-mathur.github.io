@@ -19,7 +19,7 @@ Going back to school for me was hard. I did not have a Masters degree, did not d
 
 ## Pre-Math Camp
 
-I gave myself a month between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
+I gave myself a month betweenmy last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
 
 Based on my experience retrospectively, I think the three most important concepts to refresh before math camp are:
 <ul>
