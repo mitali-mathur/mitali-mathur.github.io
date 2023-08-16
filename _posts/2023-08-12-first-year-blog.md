@@ -10,7 +10,7 @@ related_posts: false
 toc:
   sidebar: left
 ---
-#Overview
+# Overview
 I wrote this page to share <i><b>reflections, resources, and routines</b></i> that helped me feel happy, motivated, and disciplined through the first year of my econ PhD. 
 
 Coming into a PhD program without a Masters degree and after working was definitely an adjustment. As many others have shared before me, you never really know what you’re getting yourself into until you’re here. I tried to prepare myself by speaking to friends currently in PhD programs and by reading blogs. I am a huge proponent of public goods and really appreciate the resources that are online about surviving/thriving in the first year. While these were certainly helpful, when I look back on my first year, a resource I wish I had would be a more <i><b>practical guide</b></i>. My intention with this page is to provide just that.
@@ -19,13 +19,15 @@ Many resources emphasize the importance of “studying,” “working in groups�
 
 Hopefully this three-part series can add some practical context that can help prospective and current first students navigate their own paths! 
 
-##Contents
+## Contents
 View the three parts here:
-<li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
-<li> Routines: This post shares some examples of routines I found were important to develop and maintain. </li>
-<li> Resources: This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+<ul>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
+  <li> Routines: This post shares some examples of routines I found were important to develop and maintain. </li>
+  <li> Resources: This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+</ul>
 
-#First Year Video
+# First Year Video
 Here is a quick compilation of some of the fun moments I experienced with the department, my cohort, my friends, and my family. 
 There was indeed a <b>lot</b> of studying every day, but there were also many small outlets of joy that I was lucky enough to find and tried to highlight in this video :)
 <div class="row mt-3">
