@@ -25,7 +25,14 @@ nav_order: 3
 ---
 
 <h3> Student Evaluations</h3>
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="/assets/pdf/evals.pdf">here</a>.
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <p class="post-pdf">
+  {% if evals.pdf %}
+    <a href="{{ evals.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-bottom">
+      here.
+    </a>
+  {% endif %}
+</p>
+
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
 hard to help student grow."
