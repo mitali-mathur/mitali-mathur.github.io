@@ -26,7 +26,7 @@ nav_order: 3
 ---
 
 <h3> Student Evaluations</h3>
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record here(/assets/evals.pdf)
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record [here](/assets/evals.pdf)
 
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
