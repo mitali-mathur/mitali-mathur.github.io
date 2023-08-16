@@ -34,9 +34,24 @@ Based on my experience retrospectively, I think the three most important concept
 ## Math Camp
 Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <b>get to know my peers</b>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
 
-Secondly, I think math camp made me <b>internalize the reality that I will definitely be “stuck” on problems<b> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
+Secondly, I think math camp made me <b>internalize the reality that I will definitely be “stuck” on problems</b> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
 
 Lastly, I enjoyed math camp because it gave me an opportunity to try out different routines to find what would work best for me. Since classes started everyday at 9:30am, I figured out my sleep schedule, how long it took me to commute to class, how I should review what we did after class, what worked for meal prep etc. I also had some time to continue setting up my room, do a Costco haul, and get fully ready for the school year. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos from UC Davis's campus
+</div>
 
 ## Classes
 The first day of each class felt great! I felt like I understood what was going on and concepts were familiar. What a false sense of confidence I gave myself… The slow-start was short lived because we immediately began learning at a very quick pace. 
@@ -101,6 +116,18 @@ The main techniques I used to stay organized while studying were:
   </li>
 </ul>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/dept.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rainbow.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos of the Social Sciences and Humanities building, which houses the Economics department
+</div>
+
 ## Prelims Preparation
 A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after passing themselves! Prelims are tough! If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
 
@@ -154,6 +181,18 @@ We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and sp
 Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. 
 
 > After going through the stress of studying for hours each day, I felt a great sense of confidence after passing them and am now really looking forward to the next year of classes.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cohort.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/yosemite.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Pictures of our cohort
+</div>
 
 # Social Reflections
 Everyone is different and values socializing in different ways - to each their own! Prior to the start of the PhD program, I led a pretty social lifestyle. I wasn’t going out and partying all the time, but I definitely found a lot of joy in being an activities-oriented person: traveling, hiking, playing board games, going to museums, going to parks/on walks, going over to other people’s homes, going out to eat etc. I knew that I would not be able to stay as active since my priority was to study, learn, and pass prelims, but I wanted to find ways to do activities I enjoyed as well. While the quantity of these social activities did decrease substantially, I was able to find ways to begin building social connections at Davis, and will continue to grow those next year. Below are a few things I did to help me begin building connections with others in the community.
