@@ -32,9 +32,9 @@ Based on my experience retrospectively, I think the three most important concept
 </ul>
 
 ## Math Camp
-Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <b>get to know my peers</b>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
+Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <i><b>get to know my peers</b></i>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
 
-Secondly, I think math camp made me <b>internalize the reality that I will definitely be “stuck” on problems</b> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
+Secondly, I think math camp made me <i><b>internalize the reality that I will definitely be “stuck” on problems</b></i> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
 
 Lastly, I enjoyed math camp because it gave me an opportunity to try out different routines to find what would work best for me. Since classes started everyday at 9:30am, I figured out my sleep schedule, how long it took me to commute to class, how I should review what we did after class, what worked for meal prep etc. I also had some time to continue setting up my room, do a Costco haul, and get fully ready for the school year. 
 
@@ -209,9 +209,21 @@ Below are some of the opportunities we had to bond with other students/faculty i
   <li> <b>Coffee-Donut-Bagel:</b> The Graduate Students Association representatives from the economics department would host bi-quarterly morning events in which we could have breakfast and mingle with students and faculty. Some were for students and faculty, and some were for just students. I enjoyed attending these to meet new upper year students and begin to hear about what some professors are interested in researching and doing for fun! </li>
   <li> <b>ARE-crossover events:</b> One of my fields of interest is development economics, so I actually was very excited about these crossover events as I knew I would interact with the ARE department in the future. We had two such events: one was a soccer tournament (the Cournot Cup) and the other was a bowling tournament. </li>
   <li> <b>Department IM sports:</b> I did not participate in any intramural sports, but I know that many people enjoyed playing on intramural sports teams with faculty and students across different years. Our Economics department IM Soccer team even won last year! </li>
-  <li> <b>Holidays:</b> I tried to celebrate holidays with other people across all years. The first holiday I celebrated was Diwali, in which I connected with other South Asians and others interested in the holiday to celebrate. Although I traveled during Thanksgiving, Winter break, and Spring break, I still was able to have some meals with other students at the beginning/tail-end of these breaks, and I know that people who stayed in Davis set up chats to meet up with each other. </li>
+  <li> <b>Holidays:</b> I tried to celebrate holidays with other people across all years. I specifically enjoyed celebrating Diwali and Lunar New Year with friends. Although I traveled during Thanksgiving, Winter break, and Spring break, I still was able to have some meals with other students at the beginning/tail-end of these breaks, and I know that people who stayed in Davis set up chats to meet up with each other. </li>
   <li> <b>Camping trips (UC Davis specific):</b> Every year, students in the economics department host a camping trip in Lake Tahoe. This was honestly one of the first ways I came to know some upper year students, who I later spent time with. There were other impromptu trips planned and mass-emails were sent out whenever someone had booked a campsite and had openings for others to join. </li>
 </ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cny.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/diwali.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Diwali and Lunar New Year celebrations
+</div>
 
 ## Cohort Bonding
 I absolutely loved meeting people in our cohort. People were from all over the world - Argentina, Brazil, Chile, China, Colombia, India, Japan, Paraguay, Turkey, South Korea, USA. We set up a WhatsApp group so that everyone could stay connected and organize events. 
