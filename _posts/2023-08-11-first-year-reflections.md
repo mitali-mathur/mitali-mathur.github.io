@@ -58,11 +58,11 @@ The first day of each class felt great! I felt like I understood what was going 
 
 A few things were different compared to how I learned in undergrad: applications, problem set breadth, predictability, optional work, and the quarter system:
 <ul>
-  <li> <b>Applications:</b> There was less of an emphasis in class on solving problems than what I was used to. We had a lot of material to cover and it was completely understandable that professors went through the theory in class and leveraged problem sets and discussion sections to give us opportunities to apply the concepts we learned. For me, this was a bit challenging because I did not directly compare the general notation/definitions to specific applications/examples, so sometimes struggled to understand the purpose of the theory we were learning at the time. </li>
-  <li> <b>Problem set breadth:</b> There were some elements of problem sets that were extremely challenging. In undergrad, I was used to problems being somewhat adjacent to problems we covered in class. In this program, there were some problems I saw that I had no idea how to even start or attempt since they were so different from the examples in class or textbook problems. This made me realize that understanding core concepts was more important than solving problems – you can’t just learn how to regurgitate a solution to a problem similar to one you’ve seen before, you need to understand the concepts well enough that if you see something completely new, you have the foundations to arrive at a unique solution. </li>
-  <li> <b>Predictability:</b> In undergrad, I felt that it was a pretty sure bet that we would be tested on specific concepts. There would be one problem on each topic/theme/model covered, so while I studied every topic and tried to ace all parts of a test, I knew that if I was a little stuck on one part, I could still do well overall. The models we learned in the PhD were so complex that in a test, we could only be tested on one or two concepts, but expected to know all - which made it difficult to study for tests. </li>
-  <li> <b>Optional work:</b> In most of our classes, our grades were solely based on a midterm and final, though some grades incorporated problem sets. There were sometimes optional problem sets that were ungraded. I would always attempt the optional work assigned to us, but sometimes would not spend as much time/effort on them or go out of my way to find additional practice beyond what professors recommended. </li>
-  <li> <b>The quarter system:</b> The quarter system at UC Davis was such a shock for me. Coming from a school that ran on semesters, I was not used to the lack of breaks within each quarter. For example, there was no time to “catch-up” during Spring break - just a break in between two quarters. </li>
+  <li> <u><b>Applications:</b></u> There was less of an emphasis in class on solving problems than what I was used to. We had a lot of material to cover and it was completely understandable that professors went through the theory in class and leveraged problem sets and discussion sections to give us opportunities to apply the concepts we learned. For me, this was a bit challenging because I did not directly compare the general notation/definitions to specific applications/examples, so sometimes struggled to understand the purpose of the theory we were learning at the time. </li>
+  <li> <u><b>Problem set breadth:</b></u> There were some elements of problem sets that were extremely challenging. In undergrad, I was used to problems being somewhat adjacent to problems we covered in class. In this program, there were some problems I saw that I had no idea how to even start or attempt since they were so different from the examples in class or textbook problems. This made me realize that understanding core concepts was more important than solving problems – you can’t just learn how to regurgitate a solution to a problem similar to one you’ve seen before, you need to understand the concepts well enough that if you see something completely new, you have the foundations to arrive at a unique solution. </li>
+  <li> <u><b>Predictability:</b></u> In undergrad, I felt that it was a pretty sure bet that we would be tested on specific concepts. There would be one problem on each topic/theme/model covered, so while I studied every topic and tried to ace all parts of a test, I knew that if I was a little stuck on one part, I could still do well overall. The models we learned in the PhD were so complex that in a test, we could only be tested on one or two concepts, but expected to know all - which made it difficult to study for tests. </li>
+  <li> <u><b>Optional work:</b></u> In most of our classes, our grades were solely based on a midterm and final, though some grades incorporated problem sets. There were sometimes optional problem sets that were ungraded. I would always attempt the optional work assigned to us, but sometimes would not spend as much time/effort on them or go out of my way to find additional practice beyond what professors recommended. </li>
+  <li> <u><b>The quarter system:</b></u> The quarter system at UC Davis was such a shock for me. Coming from a school that ran on semesters, I was not used to the lack of breaks within each quarter. For example, there was no time to “catch-up” during Spring break - just a break in between two quarters. </li>
 </ul>
 
 >These differences made it difficult for me to be academically successful at the start of my PhD, but over time, I learned how to adjust and felt more engaged and confident as the year progressed.
@@ -74,31 +74,31 @@ I then completely pivoted my approach to studying and figured out that for me, a
 
 The main tools I used to study (pretty standard…) were: class notes/lecture notes, problem sets, textbook questions, past exams, papers:
 <ul>
-  <li> <b>Class notes & lecture notes/slides:</b> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
-  <li> <b>Problem sets:</b> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
-  <li> <b>Textbook questions:</b> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
-  <li> <b> Past exams/prelims:</b> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
-  <li> <b>Papers:</b> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
+  <li> <u><b>Class notes & lecture notes/slides:</b></u> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
+  <li> <u><b>Problem sets:</b></u> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
+  <li> <u><b>Textbook questions:</b></u> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
+  <li> <u><b> Past exams/prelims:</b></u> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
+  <li> <u><b>Papers:</b></u> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
 </ul>
 
 > Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
 
 The main techniques I used to stay organized while studying were having a thematic study plan, making study guides, forming study groups, attending office hours, and employing "what-if" thinking:
 <ul>
-  <li><b>Thematic study plan:</b> I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
+  <li><u><b>Thematic study plan:</b></u> I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
   <ul>
-    <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I suddenly see that in the 2019 final, there is a question that is kind of related to model #1? It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
-    <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand model #1 and compare/contrast different applications of the model. Then, I can move onto model #2 etc. </li>
+    <li> For example, let's say I am reviewing past exams chronologically. Suppose the 2022 final has model #1 and model #2. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. But what if I suddenly see that in the 2019 final, there is a question that is kind of related to model #1? It’s been so long since I reviewed that model and I don't feel confident... I am unsure how to solve the problem when the context is different or the question is asking something else. </li>
+    <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand the <i><b>core</b></i> of model #1 and allow me to compare/contrast different applications of the model. In this way, I am not memorizing how to solve specific application problems, but really trying to understand all aspects of the model.</li>
     <li> Example - this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
   </ul> 
   </li>
-  <li> <b>Study guides:</b> After we finished learning each topic, I would work on making a study guide to capture the basic, foundational ideas of what we learned. I mainly focused on including simple definitions, formulas, intuition, and problem-solving approaches. I found the act of making them to be very useful in ensuring I understood the basic foundations of each model, was able to compare and contrast different model features, and helpful in creating a plethora of “refresher resources” I could use months later while studying for prelims.
+  <li> <u><b>Study guides:</b></u> After we finished learning each topic, I would work on making a study guide to capture the basic, foundational ideas of what we learned. I mainly focused on including simple definitions, formulas, intuition, and problem-solving approaches. I found the act of making them to be very useful in ensuring I understood the basic foundations of each model, was able to compare and contrast different model features, and helpful in creating a plethora of “refresher resources” I could use months later while studying for prelims.
   <ul>
     <li> These study guides are foundational in that they do not include deep-dives into every single way each model/topic can be applied. They aren’t pretty or typed into Latex. They’re just basic notes to understand basic concepts. </li>
     <li> All of my study guides can be found in the resources section! </li>
   </ul>
   </li>
-  <li> <b>Study groups:</b> I utilized studying with my peers when I could and formed a study-group with others who were interested in group studying. Here’s how it worked for us:
+  <li> <u><b>Study groups:</b></u> I utilized studying with my peers when I could and formed a study-group with others who were interested in group studying. Here’s how it worked for us:
   <ul>
     <li> About 2 weeks before each exam, I would make a spreadsheet of some past exam questions that would be good practice. Example. </li>
     <li> We would each “sign-up” to be responsible for certain past exams, solve the exam, and upload our solution to a Google Drive. </li>
@@ -107,8 +107,8 @@ The main techniques I used to stay organized while studying were having a themat
     <li> As the year progressed, we did not meet all too frequently, but some folks continued the practice of uploading solutions and we all were able to discuss challenging questions/compare solutions in a more fluid manner in our offices.</li>
   </ul>
   </li>
-  <li> <b>Office hours:</b> I loved going to office hours. I was at first intimidated at first that my questions were too silly/basic, but after not doing well on my first test, it sunk in that it’s better to ask and be honest than to not. I strategically would go to our TA’s office hours when my questions were more minor/specific to a particular problem and to our professor’s office hours when I had broader questions. I also benefited from others being in office hours who had similar questions or asked questions I could ask follow-ups to. </li>
-  <li> <b>What-if thinking:</b> By utilizing the techniques above, I began to be more excited about the concepts we were learning and tried to implement some “what-if” thinking to see how problems changed in different contexts/under different assumptions. I would ask myself (or a peer), “what if instead of ___, we had ____?”
+  <li> <u><b>Office hours:</b></u> I loved going to office hours. I was at first intimidated at first that my questions were too silly/basic, but after not doing well on my first test, it sunk in that it’s better to ask and be honest than to not. I strategically would go to our TA’s office hours when my questions were more minor/specific to a particular problem and to our professor’s office hours when I had broader questions. I also benefited from others being in office hours who had similar questions or asked questions I could ask follow-ups to. </li>
+  <li> <u><b>What-if thinking:</b></u> By utilizing the techniques above, I began to be more excited about the concepts we were learning and tried to implement some “what-if” thinking to see how problems changed in different contexts/under different assumptions. I would ask myself (or a peer), “what if instead of ___, we had ____?”
   <ul>
     <li> Solving problems in a thematic way made me more cognizant and interested in ways in which the concepts we learned could be applied. Working in groups allowed me to bounce off other ideas to think of these questions. Reading papers also helped me discover new applications and appreciate the concepts we were learning better.  </li>
     <li> Asking these what-if questions while studying helped me check that I understood the <i>core concepts</i> and made me more prepared in seeing each concept we learned applied in different ways. When we are tested or doing our own research, we will be solving something new and contributing to the field. “What-if” thinking helps immediately with solving problems on tests we’ve never seen before and prepares us better for doing research in later years. </li>
@@ -135,14 +135,14 @@ We had about 5 days between our last final exam of the quarter and the month of 
 
 I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed:
 <ul>
-  <li> <b>Studying:</b> I utilized the same five techniques as described above to study.
+  <li> <u><b>Studying:</b></u> I utilized the same five techniques as described above to study.
   <ul>
     <li> Over Spring Break, I drafted a prelims plan (the “Timeline” tab here) in which I divided up, week by week, which <i>topics</i> I wanted to focus on. Then, I would get to it and solve past preliminary exam questions, past midterms/finals, and past problem set questions. Since we still had coursework for the Spring quarter, I studied for the content on Spring exams by doing past prelims on those topics. I wasn’t always able to stick to my plan, but I tried my best and prioritized where I could.  </li>
     <li> I found the thematic plan for each subject to be very useful and it ensured that I was indeed covering my bases and not skipping reviewing any concept. Since the material on the prelims covered the entire year across all three subjects, it was very important to me that I knew exactly what could be covered and how I could practice. See the (“Micro - List”, “Macro - List”, and “Metrics - List” on this prelim planning sheet I used as an example). </li>
     <li> The planning also helped illustrate which models were <i>emphasized</i> more. Any time I tried to guess the topic of an exam, I was always wrong, so I did not expect that preliminary exams would be any more predictable. But it was still useful to see which models did show up more frequently. </li>
   </ul>
   </li>
-  <li> <b>Mock exams:</b> I found it <i>extremely helpful</i> to do “mock exams” to simulate what a prelim would look like. I did 2 mock exams before each prelim. For each mock, I would choose a past prelim exam that I thought was difficult/I had not done before (so it would be the first time solving those problems for me!). Then, I would go to the exact room we would take the exam in at the exact time of our exam, and take the exam in the time limit we would get. I brought a sheet of paper with me to take some random notes on my <i>experience</i> taking each exam.
+  <li> <u><b>Mock exams:</b></u> I found it <i>extremely helpful</i> to do “mock exams” to simulate what a prelim would look like. I did 2 mock exams before each prelim. For each mock, I would choose a past prelim exam that I thought was difficult/I had not done before (so it would be the first time solving those problems for me!). Then, I would go to the exact room we would take the exam in at the exact time of our exam, and take the exam in the time limit we would get. I brought a sheet of paper with me to take some random notes on my <i>experience</i> taking each exam.
   <ul>
     <li> I took note of the following:
       <ul>
@@ -168,8 +168,8 @@ I began preparing for prelims over Spring break, around 10 weeks before our firs
 We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and spaced out by one week in between each exam. 
 
 <ul>
-  <li> <b>Day before:</b> The day before the prelim, I did not do any intense studying. I just reviewed my study guides and the past prelim solutions I had made. I shut off all studying by 7pm, ate a hearty dinner, and then got a good night’s rest. </li>
-  <li> <b>Day of:</b> I got to the exam early. For some exams, our seats were assigned, and for others, we had free seating. Since I had done mock exams in the rooms, I had a pretty good idea of where I wanted to sit for the exams with free seating. So it was nice to get to the exams early. Our exams were all anonymous and the department provided the paper we were supposed to write on. Getting there early allowed me to set up my desk (and cup of pens!), lay my snacks out under my seat, and put my unique identifier on each page (so I wouldn’t have to worry about it later!). 
+  <li> <u><b>Day before:</b></u> The day before the prelim, I did not do any intense studying. I just reviewed my study guides and the past prelim solutions I had made. I shut off all studying by 7pm, ate a hearty dinner, and then got a good night’s rest. </li>
+  <li> <u><b>Day of:</b></u> I got to the exam early. For some exams, our seats were assigned, and for others, we had free seating. Since I had done mock exams in the rooms, I had a pretty good idea of where I wanted to sit for the exams with free seating. So it was nice to get to the exams early. Our exams were all anonymous and the department provided the paper we were supposed to write on. Getting there early allowed me to set up my desk (and cup of pens!), lay my snacks out under my seat, and put my unique identifier on each page (so I wouldn’t have to worry about it later!). 
   <ul>
     <li> During the exam itself, I tried to execute everything I learned from the mocks and stayed confident throughout.  </li>
     <li> After the exam, I tried to not talk about it. It was done and there was nothing I could do to change what I wrote. There was no point in worrying or overthinking. </li>
@@ -184,10 +184,10 @@ Overall, I think the prelim exams were very demanding, but I felt that the entir
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cohort.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/yosemite.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -199,18 +199,18 @@ Everyone is different and values socializing in different ways - to each their o
 
 ## Department Bonding
 I tried to attend every student-faculty and all-department event I could (especially if they weren’t around exam season!). For some events, there weren’t obligations to stay for the entire period of each event, so I navigated my attendance accordingly. 
-> I do think networking is extremely important and sometimes undervalued, so I wanted to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! 
+> I think networking is extremely important and sometimes undervalued in PhD programs. I strove to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! 
 
 I also just found everyone so interesting, so I was very excited to get to know everyone better (inside and outside of academia). Meeting upper year students was also really lovely because I now have friends going into the next year and can call on them for advice. 
 
 Below are some of the opportunities we had to bond with other students/faculty in the department:
 <ul>
-  <li> <b>Department parties:</b> The economics department hosted two main department-level events: a welcome party in the Fall and a spring party towards the end of the year. I really enjoyed meeting some professors and students from other years in the program. </li>
-  <li> <b>Coffee-Donut-Bagel:</b> The Graduate Students Association representatives from the economics department would host bi-quarterly morning events in which we could have breakfast and mingle with students and faculty. Some were for students and faculty, and some were for just students. I enjoyed attending these to meet new upper year students and begin to hear about what some professors are interested in researching and doing for fun! </li>
-  <li> <b>ARE-crossover events:</b> One of my fields of interest is development economics, so I actually was very excited about these crossover events as I knew I would interact with the ARE department in the future. We had two such events: one was a soccer tournament (the Cournot Cup) and the other was a bowling tournament. </li>
-  <li> <b>Department IM sports:</b> I did not participate in any intramural sports, but I know that many people enjoyed playing on intramural sports teams with faculty and students across different years. Our Economics department IM Soccer team even won last year! </li>
-  <li> <b>Holidays:</b> I tried to celebrate holidays with other people across all years. I specifically enjoyed celebrating Diwali and Lunar New Year with friends. Although I traveled during Thanksgiving, Winter break, and Spring break, I still was able to have some meals with other students at the beginning/tail-end of these breaks, and I know that people who stayed in Davis set up chats to meet up with each other. </li>
-  <li> <b>Camping trips (UC Davis specific):</b> Every year, students in the economics department host a camping trip in Lake Tahoe. This was honestly one of the first ways I came to know some upper year students, who I later spent time with. There were other impromptu trips planned and mass-emails were sent out whenever someone had booked a campsite and had openings for others to join. </li>
+  <li> <u><b>Department parties:</b></u> The economics department hosted two main department-level events: a welcome party in the Fall and a spring party towards the end of the year. I really enjoyed meeting some professors and students from other years in the program. </li>
+  <li> <u><b>Coffee-Donut-Bagel:</b></u> The Graduate Students Association representatives from the economics department would host bi-quarterly morning events in which we could have breakfast and mingle with students and faculty. Some were for students and faculty, and some were for just students. I enjoyed attending these to meet new upper year students and begin to hear about what some professors are interested in researching and doing for fun! </li>
+  <li> <u><b>ARE-crossover events:</b></u> One of my fields of interest is development economics, so I actually was very excited about these crossover events as I knew I would interact with the ARE department in the future. We had two such events: one was a soccer tournament (the Cournot Cup) and the other was a bowling tournament. </li>
+  <li> <u><b>Department IM sports:</b></u> I did not participate in any intramural sports, but I know that many people enjoyed playing on intramural sports teams with faculty and students across different years. Our Economics department IM Soccer team even won last year! </li>
+  <li> <u><b>Holidays:</b></u> I tried to celebrate holidays with other people across all years. I specifically enjoyed celebrating Diwali and Lunar New Year with friends. Although I traveled during Thanksgiving, Winter break, and Spring break, I still was able to have some meals with other students at the beginning/tail-end of these breaks, and I know that people who stayed in Davis set up chats to meet up with each other. </li>
+  <li> <u><b>Camping trips (UC Davis specific):</b></u> Every year, students in the economics department host a camping trip in Lake Tahoe. This was honestly one of the first ways I came to know some upper year students, who I later spent time with. There were other impromptu trips planned and mass-emails were sent out whenever someone had booked a campsite and had openings for others to join. </li>
 </ul>
 
 <div class="row mt-3">
@@ -230,9 +230,9 @@ I absolutely loved meeting people in our cohort. People were from all over the w
 
 Some notable things we did were:
 <ul>
-  <li> <b>Birthdays:</b> At the beginning of the year, we set up a Google Doc where everyone could note down their birthdays. We all tried to message the WhatsApp group on people’s birthdays and for those that wanted to celebrate, they’d drop an open-invitation to celebrate at a restaurant. </li>
-  <li> <b>Yosemite Trip:</b> The majority of our cohort went on a trip to Yosemite National Park. We rented a house that could accommodate everyone and had a blast hanging out in the house and park (people split up doing different activities). </li>
-  <li> <b>Studying:</b> We were too many people to all study in a large group, but we had an active Google Drive where people posted resources and study tools, which we shared with one another. Many people formed study groups with their officemates. </li>
+  <li> <u><b>Birthdays:</b></u> At the beginning of the year, we set up a Google Doc where everyone could note down their birthdays. We all tried to message the WhatsApp group on people’s birthdays and for those that wanted to celebrate, they’d drop an open-invitation to celebrate at a restaurant. </li>
+  <li> <u><b>Yosemite Trip:</b></u> The majority of our cohort went on a trip to Yosemite National Park. We rented a house that could accommodate everyone and had a blast hanging out in the house and park (people split up doing different activities). </li>
+  <li> <u><b>Studying:</b></u> We were too many people to all study in a large group, but we had an active Google Drive where people posted resources and study tools, which we shared with one another. Many people formed study groups with their officemates. </li>
 </ul>
 
 ## Community Friends
@@ -240,9 +240,9 @@ From my experience working, I knew that for me, it was important to make friends
 
 The outlets that I found easy to tap into were:
 <ul>
-  <li> <b>Sports team:</b> I joined an Ultimate Frisbee (the sport I play!) community pick-up team that is composed of graduate students from different departments, adults, and some undergrads here and there. I found them through Google! I love playing with them and have been able to meet up with a few people outside the field! </li>
-  <li> <b>Roommates:</b> I chose to live with non-econ-PhD, but other graduate students so that I could make more friends outside of the department. While everyone is studious and respects/understands the studying we all do, we occasionally interact via watching movies, playing board games, and having dinner together. </li>
-  <li> <b>Extracurricular courses:</b> I know many people who took pottery classes, photography classes, yoga classes, rock-climbing courses, zumba classes etc. I did not join these classes during my first year and stuck with Ultimate Frisbee, but I am interested in trying some moving forward. </li>
+  <li> <u><b>Sports team:</b></u> I joined an Ultimate Frisbee (the sport I play!) community pick-up team that is composed of graduate students from different departments, adults, and some undergrads here and there. I found them through Google! I love playing with them and have been able to meet up with a few people outside the field! </li>
+  <li> <u><b>Roommates:</b></u> I chose to live with non-econ-PhD, but other graduate students so that I could make more friends outside of the department. While everyone is studious and respects/understands the studying we all do, we occasionally interact via watching movies, playing board games, and having dinner together. </li>
+  <li> <u><b>Extracurricular courses:</b></u> I know many people who took pottery classes, photography classes, yoga classes, rock-climbing courses, zumba classes etc. I did not join these classes during my first year and stuck with Ultimate Frisbee, but I am interested in trying some moving forward. </li>
 </ul>
 
 # Why I love UC Davis
