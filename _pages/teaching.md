@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-<h2> Undergraduate Courses </h2>
-<h3> UC Davis </h3>
+<h3> Undergraduate Courses </h3>
+<h4><b> UC Davis </b></h4>
 
 <li>ECN 1A: Principles of Microeconomics</li>
 
@@ -18,14 +18,14 @@ nav_order: 3
 
 <li>ECN 115B: Economic Development</li>
 
-<h3> Georgetown University </h3>
+<h4><b>Georgetown University</b></h4>
 
 <li>ECN 156: Poverty & Inequality</li>
 
 ---
 
-<h2> Student Evaluations</h2>
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="{{ evals.pdf | prepend: 'assets/pdf/' | relative_url}}">here.</a>
+<h3> Student Evaluations</h3>
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="/assets/pdf/evals.pdf">here</a>.
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
 hard to help student grow."
