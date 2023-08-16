@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 # Overview
-I wrote this page to share <i><b>reflections, resources, and routines</b></i> that helped me feel happy, motivated, and disciplined through the first year of my econ PhD. 
+I wrote this page to share <i><b>reflections, resources, and routines</b></i> that helped me feel happy, motivated, and disciplined throughout the first year of my econ PhD. 
 
 Coming into a PhD program without a Masters degree and after working was definitely an adjustment. As many others have shared before me, you never really know what you’re getting yourself into until you’re here. I tried to prepare myself by speaking to friends currently in PhD programs and by reading blogs. I am a huge proponent of public goods and really appreciate the resources that are online about surviving/thriving in the first year. While these were certainly helpful, when I look back on my first year, a resource I wish I had would be a more <i><b>practical guide</b></i>. My intention with this page is to provide just that.
 

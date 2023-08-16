@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I. Flourishing in the First Year - Reflections
+title: Flourishing in the First Year - Part I. Reflections
 date: 2023-08-11
 description: Part I in my series about the first year of an econ PhD where I reflect on my academic and social experience
 tags:
@@ -34,7 +34,7 @@ Based on my experience retrospectively, I think the three most important concept
 ## Math Camp
 Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <i><b>get to know my peers</b></i>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
 
-Secondly, I think math camp made me <i><b>internalize the reality that I will definitely be “stuck” on problems</b></i> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
+Secondly, I think math camp made me <i><b>internalize the reality that I will definitely be “stuck” on problems</b></i> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use. 
 
 Lastly, I enjoyed math camp because it gave me an opportunity to try out different routines to find what would work best for me. Since classes started everyday at 9:30am, I figured out my sleep schedule, how long it took me to commute to class, how I should review what we did after class, what worked for meal prep etc. I also had some time to continue setting up my room, do a Costco haul, and get fully ready for the school year. 
 
@@ -250,7 +250,7 @@ I am very happy to be studying at UC Davis. Since I am interested in migration e
 
 I was pleasantly surprised by how collaborative the environment was. All of the professors I met are extremely qualified, very knowledgeable, incredibly passionate about their research, and truly thoughtful in their teaching. I constantly felt encouraged and really appreciated the enthusiasm of everyone in the department. Students from other years shared resources and advice with our cohort. And our cohort tried to build on those resources to iterate for the next year. I always felt I could message a peer if I needed help understanding a concept or problem. I always felt that the professors were interested in how we were doing both academically and emotionally. As an added bonus, I LOVE living in California – I am able to ride a bicycle to commute 30 minutes a day and live in a place extremely accessible to nature (40 minutes to Napa, 1.5 hours to Tahoe, 1.5 hours to Yosemite!). 
 
-Despite all the all-day, every-day studying in first year, I am very happy that I was able to find small joys in everyday life. 
+Despite all the all-day, every-day studying in first year (which was very stressful!), I am very happy that I was able to find small joys in everyday life. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
