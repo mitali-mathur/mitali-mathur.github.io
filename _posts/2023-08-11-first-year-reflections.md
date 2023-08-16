@@ -11,15 +11,18 @@ toc:
   sidebar: left
 ---
 
-My first year was unlike anything I’ve experienced before in some ways, but very familiar in other ways. The program was more rigorous than the work and schooling I had done before and required a lot of discipline and focus. Despite the intensity, I felt that after a bit of adjusting, I was able to learn what worked for me to be successful and create a sustainable work-life balance.
+My first year was unlike anything I’ve experienced before in some ways, but very familiar in other ways. The program was more rigorous than the work and schooling I had done before and required a lot of discipline and focus. Despite the intensity, I felt that after a bit of adjusting, I was able to learn what worked for me to be academically successful and create a sustainable work-life balance.
 
 # Academic Reflections
 
-Going back to school for me was hard. I did not have a Masters degree, did not do a pre-doc, and I had worked for 3 years after undergrad and before the start of the Econ PhD. So I was nervous going into the program. The twin goals of first year are to build a math/econ foundation and to pass preliminary exams. Below are some of my reflections about navigating first year classes and exams.
+Going back to school for me was hard. I did not have a Masters degree, did not do a pre-doc, and I had worked for 3 years after undergrad and before the start of the Econ PhD. So I was nervous going into the program. 
+> The academic twin goals of first year are to build a strong math/econ foundation and to pass preliminary exams.
+
+If you've completed the first year of an Econ PhD, many of these reflections may seem obvious. But these reflections are what I wish I could go back and tell myself prior to starting. I hope they may help others who are about to start their programs!
 
 ## Pre-Math Camp
 
-I gave myself a month betweenmy last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
+I gave myself a month between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. It was nice to relax. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
 
 Based on my experience retrospectively, I think the three most important concepts to refresh before math camp are:
 <ul>
@@ -29,13 +32,14 @@ Based on my experience retrospectively, I think the three most important concept
 </ul>
 
 ## Math Camp
-Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to get to know my peers. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
-Secondly, I think math camp made me internalize the fact that I will definitely be “stuck” on problems throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. This definitely amplified my imposter syndrome. But at math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
+Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <b>get to know my peers</b>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
+
+Secondly, I think math camp made me <b>internalize the reality that I will definitely be “stuck” on problems<b> throughout the PhD, in a more unfamiliar way. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I had the opportunity to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use a lot. 
 
 Lastly, I enjoyed math camp because it gave me an opportunity to try out different routines to find what would work best for me. Since classes started everyday at 9:30am, I figured out my sleep schedule, how long it took me to commute to class, how I should review what we did after class, what worked for meal prep etc. I also had some time to continue setting up my room, do a Costco haul, and get fully ready for the school year. 
 
 ## Classes
-The first day of each class felt great! I felt like I understood what was going on and concepts were familiar. What a false sense of confidence I gave myself… The slow-start was short lived because we immediately began learning at a very different pace than I had experienced before. 
+The first day of each class felt great! I felt like I understood what was going on and concepts were familiar. What a false sense of confidence I gave myself… The slow-start was short lived because we immediately began learning at a very quick pace. 
 
 A few things were different compared to how I learned in undergrad.
 <ul>
@@ -46,12 +50,12 @@ A few things were different compared to how I learned in undergrad.
   <li> <b>The quarter system:</b> The quarter system at UC Davis was such a shock for me. Coming from a school that ran on semesters, I was not used to the lack of breaks within each quarter. For example, there was no time to “catch-up” during Spring break - just a break in between two quarters. </li>
 </ul>
 
-These differences made it difficult for me to be academically successful at the start of my PhD, but over time, I learned how to adjust and felt more engaged and confident in later quarters.
+>These differences made it difficult for me to be academically successful at the start of my PhD, but over time, I learned how to adjust and felt more engaged and confident as the year progressed.
 
 ## Studying
-The first test I ever took made me think I would completely fail out. I studied the way I had done in undergrad - I read through notes, re-did some homework problems, skimmed the textbook, and solved a few past exams. But when I saw the exam, questions had unfamiliar twists that I was not able to understand - I bounced around and tried my best, but felt terrible. This was the first time I had actually felt that I failed an exam. When the results were posted, I saw myself at the lower end of a whisker, nowhere near the box with the scores from the majority of the class. 
+The first test I ever took made me think I would completely fail out. I studied the way I had done in undergrad - I read through notes, re-did some homework problems, skimmed the textbook, and solved a few past exams. But when I saw the exam, questions had unfamiliar twists that I was not able to understand - I bounced around and tried my best, but felt terrible. When the results were posted, I saw myself at the lower end of a whisker, nowhere near the box with the scores from the majority of the class. 
 
-I then completely pivoted my approach to studying and figured out that for me, an organized and structured approach to studying was most useful. I applied a lot of organizational study tools and techniques to help and saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
+I then completely pivoted my approach to studying and figured out that for me, an <b>organized and structured approach</b> to studying was most useful. I applied a lot of organizational study tools and techniques to help and saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
 
 The main tools I used to study (pretty standard…) were:
 <ul>
@@ -62,7 +66,7 @@ The main tools I used to study (pretty standard…) were:
   <li> <b>Papers:</b> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
 </ul>
 
-Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it didn’t directly tackle the challenges above and was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
+> Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
 
 The main techniques I used to stay organized while studying were:
 <ul>
@@ -70,7 +74,7 @@ The main techniques I used to stay organized while studying were:
   <ul>
     <li> For example, if I were studying for an exam by chronology, I might spend one day solving the 2022 final. Let’s say the 2022 final has model #1 and model #2. Great, I’ve solved it and I feel good. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. So I have done model #3 and model #4. Awesome. But what if I suddenly see that in the 2019 final, there is a question that is kind of related to model #1? It’s been so long since I solved the 2022 final and I don’t really know if I fully understand model #1 - I just know how to solve the question from the 2022 final and am unsure how to solve the problem when the context is different or the question is asking something else. </li>
     <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand model #1 and compare/contrast different applications of the model. Then, I can move onto model #2 etc. </li>
-    <li> Example, this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
+    <li> Example - this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
   </ul> 
   </li>
   <li> <b>Study guides:</b> After we finished learning each topic, I would work on making a study guide to capture the basic, foundational ideas of what we learned. I mainly focused on including simple definitions, formulas, intuition, and problem-solving approaches. I found the act of making them to be very useful in ensuring I understood the basic foundations of each model, was able to compare and contrast different model features, and helpful in creating a plethora of “refresher resources” I could use months later while studying for prelims.
@@ -100,9 +104,9 @@ The main techniques I used to stay organized while studying were:
 ## Prelims Preparation
 A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after passing themselves! Prelims are tough! If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
 
-We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep and taking very short breaks throughout the day. It was really a month of eat, study econ, sleep, repeat. 
+We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep and taking very short breaks throughout the day. It was a cycle of eat, study econ, sleep, repeat. 
 
-I began preparing for prelims over Spring break, around 10 weeks before our first prelim. 
+I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed the following:
 <ul>
   <li> <b>Studying:</b> I utilized the same five techniques as described above to study.
   <ul>
@@ -131,7 +135,7 @@ I began preparing for prelims over Spring break, around 10 weeks before our firs
   </li>
 </ul>
 
-I can’t describe it, but as I was studying, beautiful moments happened where concepts “clicked” and some of the content we learned across classes started to intertwine in a way that helped me understand what we were learning more clearly. Persistence was key to finding these moments.
+> I can’t describe it, but as I was studying, beautiful moments happened where concepts “clicked” and some of the content we learned across classes started to intertwine in a way that helped me understand what we were learning more clearly. Persistence was key to finding these moments.
 
 ## Prelims
 We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and spaced out by one week in between each exam. 
@@ -147,13 +151,18 @@ We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and sp
   </li>
 </ul>
 
-Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. After going through the stress of studying for hours each day, I felt a great sense of confidence after passing them and am really looking forward to the next year of classes.
+Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. 
+
+> After going through the stress of studying for hours each day, I felt a great sense of confidence after passing them and am now really looking forward to the next year of classes.
 
 # Social Reflections
 Everyone is different and values socializing in different ways - to each their own! Prior to the start of the PhD program, I led a pretty social lifestyle. I wasn’t going out and partying all the time, but I definitely found a lot of joy in being an activities-oriented person: traveling, hiking, playing board games, going to museums, going to parks/on walks, going over to other people’s homes, going out to eat etc. I knew that I would not be able to stay as active since my priority was to study, learn, and pass prelims, but I wanted to find ways to do activities I enjoyed as well. While the quantity of these social activities did decrease substantially, I was able to find ways to begin building social connections at Davis, and will continue to grow those next year. Below are a few things I did to help me begin building connections with others in the community.
 
 ## Department Bonding
-I tried to attend every student-faculty and all-department event I could (especially if they weren’t around exam season!). For some events, there weren’t obligations to stay for the entire period of each event, so I navigated my attendance accordingly. But, I do think networking is extremely important and sometimes undervalued, so I wanted to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! I also just found everyone so interesting, so I was very excited to get to know everyone better (inside and outside of academia). Meeting upper year students was also really lovely because I now have friends going into the next year and can call on them for advice. 
+I tried to attend every student-faculty and all-department event I could (especially if they weren’t around exam season!). For some events, there weren’t obligations to stay for the entire period of each event, so I navigated my attendance accordingly. 
+> I do think networking is extremely important and sometimes undervalued, so I wanted to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! 
+
+I also just found everyone so interesting, so I was very excited to get to know everyone better (inside and outside of academia). Meeting upper year students was also really lovely because I now have friends going into the next year and can call on them for advice. 
 
 Below are some of the opportunities we had to bond with other students/faculty in the department:
 <ul>
@@ -166,8 +175,9 @@ Below are some of the opportunities we had to bond with other students/faculty i
 </ul>
 
 ## Cohort Bonding
-I absolutely loved meeting people in our cohort. People were from all over the world - Argentina, Brazil, Chile, China, Colombia, India, Japan, Paraguay, Turkey, South Korea, USA. We set up a WhatsApp group so that everyone could stay connected and organize events. Some notable things we did were:
+I absolutely loved meeting people in our cohort. People were from all over the world - Argentina, Brazil, Chile, China, Colombia, India, Japan, Paraguay, Turkey, South Korea, USA. We set up a WhatsApp group so that everyone could stay connected and organize events. 
 
+Some notable things we did were:
 <ul>
   <li> <b>Birthdays:</b> At the beginning of the year, we set up a Google Doc where everyone could note down their birthdays. We all tried to message the WhatsApp group on people’s birthdays and for those that wanted to celebrate, they’d drop an open-invitation to celebrate at a restaurant. </li>
   <li> <b>Yosemite Trip:</b> The majority of our cohort went on a trip to Yosemite National Park. We rented a house that could accommodate everyone and had a blast hanging out in the house and park (people split up doing different activities). </li>
@@ -177,6 +187,7 @@ I absolutely loved meeting people in our cohort. People were from all over the w
 ## Community Friends
 From my experience working, I knew that for me, it was important to make friends outside of the program as well. 
 
+The outlets that I found easy to tap into were:
 <ul>
   <li> <b>Sports team:</b> I joined an Ultimate Frisbee (the sport I play!) community pick-up team that is composed of graduate students from different departments, adults, and some undergrads here and there. I found them through Google! I love playing with them and have been able to meet up with a few people outside the field! </li>
   <li> <b>Roommates:</b> I chose to live with non-econ-PhD, but other graduate students so that I could make more friends outside of the department. While everyone is studious and respects/understands the studying we all do, we occasionally interact via watching movies, playing board games, and having dinner together. </li>
@@ -188,4 +199,13 @@ I am very happy to be studying at UC Davis. Since I am interested in migration e
 
 I was pleasantly surprised by how collaborative the environment was. All of the professors I met are extremely qualified, very knowledgeable, incredibly passionate about their research, and truly thoughtful in their teaching. I constantly felt encouraged and really appreciated the enthusiasm of everyone in the department. Students from other years shared resources and advice with our cohort. And our cohort tried to build on those resources to iterate for the next year. I always felt I could message a peer if I needed help understanding a concept or problem. I always felt that the professors were interested in how we were doing both academically and emotionally. As an added bonus, I LOVE living in California – I am able to ride a bicycle to commute 30 minutes a day and live in a place extremely accessible to nature (40 minutes to Napa, 1.5 hours to Tahoe, 1.5 hours to Yosemite!). 
 
-Despite all the all-day, every-day studying in first year, I am very happy that I was able to find small joys in everyday life. Below is a short snip-bit of one-second videos that highlight some fun aspects of my first year as a UC Davis economics PhD student. 
+Despite all the all-day, every-day studying in first year, I am very happy that I was able to find small joys in everyday life. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/first_day.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    My first day of classes, 2023
+</div>
