@@ -86,6 +86,9 @@
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
+        {% assign month_values = "01,02,03,04,05,06,07,08,09,10,11,12" | split: ',' %}
+        {% assign sorted_entries = site.data.papers | sort: 'month' %}
+        {% for entry in sorted_entries %}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
@@ -96,7 +99,8 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.month -%}
-          {%- capture entrymonth -%}{{ entry.month }}{%- endcapture -%}
+            {%- assign month_index = entry.month | minus: 1 -%}
+            {%- capture entry_month -%}{{ month_values[month_index] }}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
@@ -109,7 +113,8 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
-
+        {% endfor %}
+            
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
