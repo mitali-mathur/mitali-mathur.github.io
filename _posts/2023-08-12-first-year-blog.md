@@ -23,7 +23,7 @@ Hopefully this three-part series can add some practical context that can help pr
 View the three parts here:
 <ul>
   <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
-  <li> Routines: This post shares some examples of routines I found were important to develop and maintain. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post shares some examples of routines I found were important to develop and maintain. </li>
   <li> Resources: This post includes all the study guides I made and organizational tools for streamlining studying. </li>
 </ul>
 
