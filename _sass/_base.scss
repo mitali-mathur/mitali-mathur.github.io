@@ -743,7 +743,7 @@ html.transition *:after {
 
       p {
         margin-bottom: 0;
-        font-size: 1rem
+        font-size: 1rem;
       }
     }
   }
@@ -924,6 +924,7 @@ nav[data-toggle="toc"] {
 
     p {
       color: var(--global-tip-block-text);
+      font-size: 1rem;
     }
 
     h1, h2, h3, h4, h5, h6 {

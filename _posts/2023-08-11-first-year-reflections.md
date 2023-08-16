@@ -56,7 +56,7 @@ Lastly, I enjoyed math camp because it gave me an opportunity to try out differe
 ## Classes
 The first day of each class felt great! I felt like I understood what was going on and concepts were familiar. What a false sense of confidence I gave myself… The slow-start was short lived because we immediately began learning at a very quick pace. 
 
-A few things were different compared to how I learned in undergrad.
+A few things were different compared to how I learned in undergrad: applications, problem set breadth, predictability, optional work, and the quarter system:
 <ul>
   <li> <b>Applications:</b> There was less of an emphasis in class on solving problems than what I was used to. We had a lot of material to cover and it was completely understandable that professors went through the theory in class and leveraged problem sets and discussion sections to give us opportunities to apply the concepts we learned. For me, this was a bit challenging because I did not directly compare the general notation/definitions to specific applications/examples, so sometimes struggled to understand the purpose of the theory we were learning at the time. </li>
   <li> <b>Problem set breadth:</b> There were some elements of problem sets that were extremely challenging. In undergrad, I was used to problems being somewhat adjacent to problems we covered in class. In this program, there were some problems I saw that I had no idea how to even start or attempt since they were so different from the examples in class or textbook problems. This made me realize that understanding core concepts was more important than solving problems – you can’t just learn how to regurgitate a solution to a problem similar to one you’ve seen before, you need to understand the concepts well enough that if you see something completely new, you have the foundations to arrive at a unique solution. </li>
@@ -72,7 +72,7 @@ The first test I ever took made me think I would completely fail out. I studied 
 
 I then completely pivoted my approach to studying and figured out that for me, an <b>organized and structured approach</b> to studying was most useful. I applied a lot of organizational study tools and techniques to help and saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
 
-The main tools I used to study (pretty standard…) were:
+The main tools I used to study (pretty standard…) were: class notes/lecture notes, problem sets, textbook questions, past exams, papers:
 <ul>
   <li> <b>Class notes & lecture notes/slides:</b> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
   <li> <b>Problem sets:</b> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
@@ -83,7 +83,7 @@ The main tools I used to study (pretty standard…) were:
 
 > Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
 
-The main techniques I used to stay organized while studying were:
+The main techniques I used to stay organized while studying were having a thematic study plan, making study guides, forming study groups, attending office hours, and employing "what-if" thinking:
 <ul>
   <li><b>Thematic study plan:</b> I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
   <ul>
@@ -133,7 +133,7 @@ A lot of the second year students and other faculty instilled in us confidence t
 
 We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep and taking very short breaks throughout the day. It was a cycle of eat, study econ, sleep, repeat. 
 
-I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed the following:
+I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed:
 <ul>
   <li> <b>Studying:</b> I utilized the same five techniques as described above to study.
   <ul>
