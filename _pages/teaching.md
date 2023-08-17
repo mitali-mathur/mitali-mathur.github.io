@@ -7,26 +7,28 @@ nav: true
 nav_order: 3
 ---
 
-<h3> Undergraduate Courses </h3>
+## Undergraduate Courses
 
-<h4><b> UC Davis </b></h4>
+<b> UC Davis </b>
 
-<li>ECN 1A: Principles of Microeconomics</li>
+<ul>
+    <li>ECN 1A: Principles of Microeconomics</li>
+    <li>ECN 1B: Principles of Macroeconomics</li>
+    <li>ECN 101: Intermediate Macroeconomic Theory</li>
+    <li>ECN 115B: Economic Development</li>
+</ul>
 
-<li>ECN 1B: Principles of Macroeconomics</li>
+<b>Georgetown University</b>
 
-<li>ECN 101: Intermediate Macroeconomic Theory</li>
-
-<li>ECN 115B: Economic Development</li>
-
-<h4><b>Georgetown University</b></h4>
-
+<ul>
 <li>ECN 156: Poverty & Inequality</li>
+</ul>
+
 
 ---
 
-<h3> Student Evaluations</h3>
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record [here](/assets/evals.pdf)
+## Student Evaluations
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/drive/folders/1SgHlZdCHXHE2fv15qBbHs3BJbsVq4d3O">here.</a>
 
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
