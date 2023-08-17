@@ -7,9 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-## Undergraduate Courses
+### Undergraduate Courses
 
-<b> UC Davis </b>
+<b>UC Davis</b>
 
 <ul>
     <li>ECN 1A: Principles of Microeconomics</li>
@@ -27,8 +27,8 @@ nav_order: 3
 
 ---
 
-## Student Evaluations
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/drive/folders/1SgHlZdCHXHE2fv15qBbHs3BJbsVq4d3O">here.</a>
+### Student Evaluations
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/file/d/1twsv9WJ1OgtepPSdMWtQ8LHk7ApDL7Cx/view?usp=sharing">here.</a>
 
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
