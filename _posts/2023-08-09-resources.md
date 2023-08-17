@@ -66,3 +66,12 @@ Here is the prelims planning spreadsheet I used (as an example). The tabs are:
 
 ## Midterm/Final Exams Organizer
 This is an example of a google sheet I used to study for midterm exams with other people in my cohort. I created a timeline for myself, and coordinated with a few people I studied in groups with to divide and conquer solving some past exams. 
+
+# Contents
+Jump to the next parts:
+<ul>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-references/">References:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+</ul>
+
+Return to the <a href="https://mitali-mathur.github.io/blog/2023/first-year-blog/">landing page</a> of this series

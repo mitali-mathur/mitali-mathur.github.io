@@ -260,3 +260,12 @@ Despite all the all-day, every-day studying in first year (which was very stress
 <div class="caption">
     My first day of classes, 2023
 </div>
+
+# Contents
+Jump to the next parts:
+<ul>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post shares some examples of routines I found were important to develop and maintain. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-resources/">Resources:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+</ul>
+
+Return to the <a href="https://mitali-mathur.github.io/blog/2023/first-year-blog/">landing page</a> of this series

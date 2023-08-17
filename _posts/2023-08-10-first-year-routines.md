@@ -70,3 +70,12 @@ On the day of any exam, I had a very specific (and maybe superstitious) routine.
 
 # Budgeting
 Being a full time student means not working full time. As such, I found it extremely important to budget. I know this is very old school, but in college, I had built myself an expense tracker and budgeting tool on excel, which I continued to use while working and in the PhD program. I know other people who use apps to track expenses as well. I was very diligent in checking that my fellowship and teaching assistant payments were going through and marking all expenses. I think this was key to ensuring I could budget for all of the trips and activities that I had planned. 
+
+# Contents
+Jump to the next parts:
+<ul>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">References:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-resources/">Resources:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+</ul>
+
+Return to the <a href="https://mitali-mathur.github.io/blog/2023/first-year-blog/">landing page</a> of this series
