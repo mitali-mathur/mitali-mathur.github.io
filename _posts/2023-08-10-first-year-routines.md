@@ -47,7 +47,7 @@ It is hard to build a specific routine for personal/professional development, bu
   <li> <u><b>News:</b></u> I love listening and reading the news. It helps me feel like a more well-rounded global citizen and it inspires many research questions. Most of the news I consume is via podcasts and Twitter/X. When I am not speaking to anyone while biking or doing household chores, I am always listening to a podcast. </li>
 </ul>
 
-Finally, I like to document the steps I make towards any personal growth. I used to maintain this habit while working and found it extremely useful in identifying patterns, figuring out what new skills I needed to build, and sharing my progress with my mentors. I also personally like having a record so that I can feel simultaneously accomplished in what I have done and motivated to do other things. Here is my current list. 
+Finally, I like to document the steps I make towards any personal growth. I used to maintain this habit while working and found it extremely useful in identifying patterns, figuring out what new skills I needed to build, and sharing my progress with my mentors. I also personally like having a record so that I can feel simultaneously accomplished in what I have done and motivated to do other things. <a href="https://docs.google.com/spreadsheets/d/11ADMG0hM7a19roUm3qhdWuULX9GUy0cs2NIxXLKprJI/edit?usp=sharing">Here</a> is my current list. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
