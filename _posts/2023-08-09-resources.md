@@ -57,12 +57,14 @@ Here are the guides:
 ## Preliminary Exams Organizer
 I found it extremely lucrative to organize my preparations for preliminary exams. These exams were cumulative and we could be asked anything! That is a lot of material: past prelim exams, past finals, past midterms, and past problems to review. I wanted to ensure that I had a direction with my studying and wanted to ensure that I would not sit down for a prelim and realize I missed studying something. I knew I would have regrets if I saw a question on a topic that was  vaguely familiar but that I had completely forgotten to study. 
 
-Here is the prelims planning spreadsheet I used (as an example). The tabs are:
+<a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=366404674">Here</a> is the prelims planning spreadsheet I used (as an example). The tabs are:
 <ul>
   <li> <u><b>Topics:</b></u> I categorized concepts and models we learned into broader themes. I organized them by quarter/Professor and subject (Macro/Micro/Metrics). </li>
   <li> <u><b>Micro, Macro, Metrics:</b></u> I organized all of the past problem sets, midterms, finals, and prelims I had access to by topic. I highlighted the past prelims to emphasize them. I included a column in which I could take notes on my experience solving the question, which I later referenced if I wanted to re-attempt a challenging problem in a particular category. This sheet really helped me streamline and prioritize my studying.  </li>
   <li> <u><b>Timeline:</b></u> I created a timeline in which I could divide up which days I wanted to focus on which topics. The numbering was consistent to the numbering I assigned problems in the Micro/Macro/Metrics tabs. I was not able to fully stick to this during the school year. But I did stick to it during the month of preliminary exams.  </li>
 </ul>
+
+Once I was in the prelims month period, I didn't add comments or note down the other attempts of solving questions on the Google Sheet. I just used it to navigate what to study - then I tried to be efficient and kept solving as many new and old questions as I could!
 
 ## Midterm/Final Exams Organizer
 This is an example of a google sheet I used to study for midterm exams with other people in my cohort. I created a timeline for myself, and coordinated with a few people I studied in groups with to divide and conquer solving some past exams. 
