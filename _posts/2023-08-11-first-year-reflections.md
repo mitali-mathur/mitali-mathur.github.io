@@ -129,17 +129,18 @@ The main techniques I used to stay organized while studying were having a themat
 </div>
 
 ## Prelims Preparation
-A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after passing themselves! Prelims are tough! If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
+A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after passing themselves! Prelims are tough and I don't want to downplay the hardwork and stress that comes with studying for them. If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
 
-We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep and taking very short breaks throughout the day. It was a cycle of eat, study econ, sleep, repeat. 
+We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the coursework/exams of the quarter. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep. It was a cycle of eat, study econ, sleep, repeat.
 
 I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed:
 <ul>
   <li> <u><b>Studying:</b></u> I utilized the same five techniques as described above to study.
   <ul>
-    <li> Over Spring Break, I drafted a prelims plan (the “Timeline” tab here) in which I divided up, week by week, which <i>topics</i> I wanted to focus on. Then, I would get to it and solve past preliminary exam questions, past midterms/finals, and past problem set questions. Since we still had coursework for the Spring quarter, I studied for the content on Spring exams by doing past prelims on those topics. I wasn’t always able to stick to my plan, but I tried my best and prioritized where I could.  </li>
-    <li> I found the thematic plan for each subject to be very useful and it ensured that I was indeed covering my bases and not skipping reviewing any concept. Since the material on the prelims covered the entire year across all three subjects, it was very important to me that I knew exactly what could be covered and how I could practice. See the (“Micro - List”, “Macro - List”, and “Metrics - List” on this prelim planning sheet I used as an example). </li>
+    <li> Over Spring Break, I drafted a prelims plan (the “Timeline” tab <a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=366404674">here</a>) in which I divided up, week by week, which <i>topics</i> I wanted to focus on. Then, I would get to it and solve past preliminary exam questions, past midterms/finals, and past problem set questions. Since we still had coursework for the Spring quarter, I studied for the content on Spring exams by doing past prelims on those topics. I wasn’t always able to stick to my plan (which you can see from the empty checkboxes in the plan I shared), but I tried my best and prioritized where I could.  </li>
+    <li> I found the thematic plan for each subject to be very useful and it ensured that I was indeed covering my bases and not skipping reviewing any concept. Since the material on the prelims covered the entire year across all three subjects, it was very important to me that I knew exactly what could be covered and how I could practice. See the (“Micro - List”, “Macro - List”, and “Metrics - List” on <a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=366404674">this</a> prelim planning sheet I used as an example). </li>
     <li> The planning also helped illustrate which models were <i>emphasized</i> more. Any time I tried to guess the topic of an exam, I was always wrong, so I did not expect that preliminary exams would be any more predictable. But it was still useful to see which models did show up more frequently. </li>
+    <li> I'd like to emphasize that this type of planning is just an example of what I did. Other people in my cohort were very successful with prelims as well by creating their own tools like printing out past prelims and organizing them in binders, going through notes and problems chronologically, creating flashcards etc. By Spring, I think most people had a grasp on understanding what worked for them to study and stuck to it when studying for prelims!</li>
   </ul>
   </li>
   <li> <u><b>Mock exams:</b></u> I found it <i>extremely helpful</i> to do “mock exams” to simulate what a prelim would look like. I did 2 mock exams before each prelim. For each mock, I would choose a past prelim exam that I thought was difficult/I had not done before (so it would be the first time solving those problems for me!). Then, I would go to the exact room we would take the exam in at the exact time of our exam, and take the exam in the time limit we would get. I brought a sheet of paper with me to take some random notes on my <i>experience</i> taking each exam.
@@ -178,9 +179,9 @@ We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and sp
   </li>
 </ul>
 
-Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. 
+> Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed. We had an opportunity to show our professors everything we learned by solving problems we had never seen before. 
 
-> After going through the stress of studying for hours each day, I felt a great sense of confidence after passing them and am now really looking forward to the next year of classes.
+After going through the stress of studying for hours each day, I felt a great sense of confidence after passing prelims and am now really looking forward to the next year of classes.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -195,10 +196,11 @@ Overall, I think the prelim exams were very demanding, but I felt that the entir
 </div>
 
 # Social Reflections
-Everyone is different and values socializing in different ways - to each their own! Prior to the start of the PhD program, I led a pretty social lifestyle. I wasn’t going out and partying all the time, but I definitely found a lot of joy in being an activities-oriented person: traveling, hiking, playing board games, going to museums, going to parks/on walks, going over to other people’s homes, going out to eat etc. I knew that I would not be able to stay as active since my priority was to study, learn, and pass prelims, but I wanted to find ways to do activities I enjoyed as well. While the quantity of these social activities did decrease substantially, I was able to find ways to begin building social connections at Davis, and will continue to grow those next year. Below are a few things I did to help me begin building connections with others in the community.
+Everyone is different and values socializing in different ways - to each their own! Prior to the start of the PhD program, I led a pretty social lifestyle. I wasn’t going out and partying all the time, but I definitely found a lot of joy in being an activities-oriented person: traveling, hiking, playing board games, going to museums, going to parks/on walks, going over to other people’s homes, going out to eat etc. I knew that I would not be able to stay as active since my priorities were to study, learn, and pass prelims, but I wanted to find ways to do activities I enjoyed as well. While the quantity of these social activities did decrease substantially, I was able to find ways to begin building social connections at Davis, and hope to continue to grow those next year. Below are a few things I did to help me build connections with others in the community.
 
 ## Department Bonding
 I tried to attend every student-faculty and all-department event I could (especially if they weren’t around exam season!). For some events, there weren’t obligations to stay for the entire period of each event, so I navigated my attendance accordingly. 
+
 > I think networking is extremely important and sometimes undervalued in PhD programs. I strove to meet all the professors and students I could to begin laying the foundation for friendships and collaborations in the future! 
 
 I also just found everyone so interesting, so I was very excited to get to know everyone better (inside and outside of academia). Meeting upper year students was also really lovely because I now have friends going into the next year and can call on them for advice. 

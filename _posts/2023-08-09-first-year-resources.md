@@ -31,7 +31,7 @@ In later years, I know that there are a lot more resources available through the
 I am very obsessed with organization and found the following tools very useful:
 
 <ul>
-  <li><u><b>iPad + Notability:</b></u> I had spoken to many PhD students and they all recommended I get an Ipad. And I highly recommend it. I was a bit skeptical at first because I had always taken paper notes. But I got a “paperlike” screen protector, which made it feel similar to writing on paper. I used Notability to organize my notes. I was able to divide sections based on which quarter it was and create sections by class, just like I would do with binders, so everything was very organized. Others I know used GoodNotes and also liked it. I enjoyed taking notes on my iPad because:
+  <li><u><b>iPad + Notability:</b></u> I had spoken to many PhD students and they all recommended I get an Ipad. And I highly recommend it if you can. I was a bit skeptical at first because I had always taken paper notes. But I got a “paperlike” screen protector, which made it feel similar to writing on paper. I used Notability to organize my notes. I was able to divide sections based on which quarter it was and create sections by class, just like I would do with binders, so everything was very organized. Others I know used GoodNotes and also liked it. I enjoyed taking notes on my iPad because:
   <ul>
     <li> I could export all notes as PDFs to Google Drive directly, which made it easier for me to reference while studying </li>
     <li> I could download past exams and problems and write directly on those PDFs </li>
@@ -67,7 +67,7 @@ I found it extremely lucrative to organize my preparations for preliminary exams
 Once I was in the prelims month period, I didn't add comments or note down the other attempts of solving questions on the Google Sheet. I just used it to navigate what to study - then I tried to be efficient and kept solving as many new and old questions as I could!
 
 ## Midterm/Final Exams Organizer
-This is an example of a google sheet I used to study for midterm exams with other people in my cohort. I created a timeline for myself, and coordinated with a few people I studied in groups with to divide and conquer solving some past exams. 
+This is an example of a google sheet I used to study for midterm exams. I created a timeline for myself, and coordinated with a few people who wanted to do group studying to divide and conquer solving some past exams. 
 
 # Contents
 Jump to the next parts:
