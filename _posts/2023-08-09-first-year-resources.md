@@ -59,14 +59,23 @@ As mentioned earlier, these study guides are very basic and foundational. They a
     <th>Description</th>
   </tr>
   <tr>
-    <td>Preferences</td>
-    <td>This covers chapters 1 and 2 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook.</td>
+    <td><a href="https://drive.google.com/file/d/13Bm_qXyD8NUaYAwFqs7eMWEmRPnVqV3w/view?usp=sharing">Preferences</a></td>
+    <td>Chapters 1 and 2 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Types of preference relations and relationships to representable utility functions. Key theorems. </td>
   </tr>
   <tr>
-    <td>Consumer Theory</td>
-    <td>This covers chapter 3 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook.</td>
+    <td><a href="https://drive.google.com/file/d/1tX5XHAUMJCP5TsV45TlrKSOVpoUJ6mrV/view?usp=sharing">Revealed Preference</a></td>
+    <td>Weak Axiom of revealed preferences. Strong Axiom of revealed preferences. General Axiom of revealed preferences.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1wRl-0NJO1XalpkoZEb8NL25suaY1dpH8/view?usp=sharing">Walrasian Demand</a></td>
+    <td>Chapter 2 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Budget sets. Comparative statics.</td>
   </tr>
 </table>
+
+### Macroeconomic Theory
+
+### Econometric Theory
+
 
 ## Preliminary Exams Organizer
 I found it extremely lucrative to organize my preparations for preliminary exams. These exams were cumulative and we could be asked anything! That is a lot of material: past prelim exams, past finals, past midterms, and past problems to review. I wanted to ensure that I had a direction with my studying - I did not want to be in a situation in which I would sit down for a prelim and realize I missed studying something. I knew I would have regrets if I saw a question on a topic that was vaguely familiar but that I had completely forgotten to study. 
