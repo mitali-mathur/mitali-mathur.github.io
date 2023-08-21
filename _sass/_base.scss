@@ -25,17 +25,19 @@ hr {
 
 table {
   border-collapse: collapse;
-  border: 1px solid black;
 }
 
-table td,
-table th {
+td, th {
+  border: 1px var(--global-theme-color);
+  padding: 8px;
+  text-align: left;
   font-size: 1rem;
 }
 
-table th {
+th {
   font-weight: bold;
 }
+
 
 
 a,
