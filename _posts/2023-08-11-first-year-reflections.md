@@ -2,7 +2,7 @@
 layout: post
 title: Flourishing in the First Year - Part I. Reflections
 date: 2023-08-11
-description: Part I in my series about the first year of an econ PhD where I reflect on my academic and social experience
+description: Part I of my series about the first year of an econ PhD where I reflect on my academic and social experience
 tags:
 categories:
 giscus_comments: false
@@ -11,21 +11,21 @@ toc:
   sidebar: left
 ---
 
-My first year was unlike anything I’ve experienced before. The program was more rigorous than the work and schooling I had done before and required a lot of discipline and focus. Despite the intensity, I felt that after some adjusting, I was able to learn what worked for me to be academically successful and create a sustainable work-life balance.
+If you've completed the first year of an Econ PhD, many of these reflections may seem obvious. But these reflections are what I wish I could go back and tell myself prior to starting. 
+
+My first year was unlike anything I’ve experienced before. The program was more rigorous than the work and schooling I had done before and required a lot of discipline and focus. Despite the intensity, after some adjusting, I was able to learn what worked for me to be academically successful and create a sustainable work-life balance.
 
 # Academic Reflections
 
-Going back to school for me was hard. I did not have a Masters degree, did not do a pre-doc, and I had worked for 3 years after undergrad and before the start of the Econ PhD.
+Going back to school was hard. I did not have a Masters degree, did not do a pre-doc, and had worked for 3 years after undergrad prior to the start of the Econ PhD.
 
-> The academic twin goals of first year are to build a strong math/econ foundation and to pass preliminary exams.
+>The academic twin goals of first year are to build a strong math/econ foundation and to pass preliminary exams. 
 
-For me, it was very important to also stay motivated.  I found it helpful to take a step back and think about why I was excited about doing a PhD in the first place. Yes, math camp and the theory sequences are important, but I knew I was more excited to start my research. So I tried to constantly motivate myself by thinking about why what we were learning was important, by going to seminars, and by telling myself that my GPA was not indicative of how good of a researcher I would be. Therefore, although I was also motivated to do well academically, I felt extra-motivated to get through first year by being excited about what's next to come.
-
-If you've completed the first year of an Econ PhD, many of these reflections may seem obvious. But these reflections are what I wish I could go back and tell myself prior to starting. I hope these more practical tips help others who are about to start their programs!
+Although first year is a lot of school, it is also important to remember that first year performance is not directly indicative of being a successful researcher. Therefore, while I was motivated to do well academically, I felt extra-motivated to get through first year by dipping my toes into research (attending seminars, talking to upper-year students, talking to professors etc.). It was always helpful to remember why I wanted to be here.
 
 ## Pre-Math Camp
 
-I gave myself a month off between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. It was a nice funemployment period. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
+I gave myself a month off between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. I tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
 
 In hindsight, I think the most important concepts to refresh before math camp are:
 <ul>
@@ -38,23 +38,17 @@ In hindsight, I think the most important concepts to refresh before math camp ar
 ## Math Camp
 Despite math camp being challenging, I am really happy we had it. Firstly, it was a good way to <i><b>get to know my peers</b></i>. We all ate lunch together in the shade outside. I brought a frisbee and threw it around with some folks. I found trying to get to know everyone to be really important - making friends as an adult can be hard! 
 
-Secondly, I think math camp made me <i><b>internalize the reality that I will definitely be “stuck” on problems</b></i> throughout the PhD. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples or past exam questions, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I was forced to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use. 
+Secondly, I think math camp made me <i><b>internalize the reality that I will definitely be “stuck” on problems</b></i> throughout the PhD. In undergrad, when I was stuck, I would think, take a break, and look at textbook examples, which were similar enough that I could figure out how to solve the problem. That was absolutely not the case for some problems during math camp, and subsequent PhD coursework. There are some problems you can’t just “Google” or “ChatGPT” your way to solving. At math camp, I was forced to start thinking about what to do. I went to office hours and compared problem sets with people in my cohort - two tools that I would later use. 
 
 Lastly, I enjoyed math camp because it gave me an opportunity to try out different routines to find what would work best for me. I figured out my sleep schedule, how long it took me to commute to class, how I should review what we did after class, what worked for meal prep etc. I also had some time to continue setting up my room, do a Costco haul, and get fully ready for the school year. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Photos of UC Davis
+    Some members of our cohort on the first day of classes
 </div>
 
 ## Classes
@@ -74,24 +68,39 @@ A few things were different compared to how I learned in undergrad: applications
 ## Studying
 The first test I ever took made me think I would completely fail out. I studied the way I had done in undergrad - I read through notes, re-did some homework problems, skimmed the textbook, and reviewed a few past exams. But when I took the exam, questions had unfamiliar twists that I was not able to understand - I bounced around and tried my best, but felt terrible. When the results were posted, I saw myself at the lower end of a whisker, nowhere near the box with the scores from the majority of the class. 
 
-I then completely pivoted my approach to studying and figured out that for me, an <b>organized and structured approach</b> to studying was most useful. I applied a lot of organizational study tools and techniques to help and saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
+I then completely pivoted my approach to studying and figured out that for me, an <b>organized and structured approach</b> to studying was most useful. When I studied in a more organized and intentional way, I saw a massive improvement in my understanding of the course material (which materialized in improved grades and confidence). 
 
 The main tools I used to study (pretty standard…) were: class notes/lecture notes, problem sets, textbook questions, past exams, papers:
 <ul>
-  <li> <i><b>Class notes & lecture notes/slides:</b></i> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
+  <li> <i><b>Class notes & lecture notes/slides:</b></i> I took notes separately from lecture slides to capture the explanations professors gave in class. I then compared my notes to the lecture slides in case I missed anything. </li>
   <li> <i><b>Problem sets:</b></i> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
-  <li> <i><b>Textbook questions:</b></i> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
+  <li> <i><b>Textbook questions:</b></i> For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
   <li> <i><b>Past exams/prelims:</b></i> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
-  <li> <i><b>Papers:</b></i> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
+  <li> <i><b>Papers:</b></i> Sometimes it was helpful to read the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
 </ul>
 
-> Again, everyone has their own way of studying that works! For me, my previous approach to utilizing these tools in undergrad was not effective because it was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photos of UC Davis
+</div>
+
+> Everyone has their own way of studying that works! For me, my previous approach to utilizing these study tools was not conducive to mastering such a wide breadth of material. Therefore, organizing my studying became extremely important.
 
 The main techniques I used to stay organized while studying were having a thematic study plan, making study guides, forming study groups, attending office hours, and employing "what-if" thinking:
 <ul>
-  <li><i><b>Thematic study plan:</b></i> I realized that for me, studying by themes was most useful. About 2 weeks before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner. This is a different approach to one that goes through problems in chronological order.
+  <li><i><b>Thematic study plan:</b></i> I realized that for me, studying by themes was most useful. Before each test, I would go through all the resources I had and organize concepts and practice problems by concept/model/theme. Then, I would study everything I could and do all the practice problems I could in a topical manner (as opposed to a chronological manner).
   <ul>
-    <li> For example, let's say I am reviewing past exams chronologically. Suppose the 2022 final has model #1 and model #2. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. But what if I suddenly see that in the 2019 final, there is a question that is kind of related to model #1? I may be unsure how to solve the problem when the context is different or the question is asking something else. </li>
+    <li> For example, let's say I am reviewing past exams chronologically. Suppose I study the 2022 final, which asks about model #1 and model #2. When I move to solving the 2021 final, I might get two different models, model #3 and model #4, since not all models are tested each year. But what if I suddenly see that in the 2019 final, there is a different type of question about model #1? I may be unsure how to solve the problem when the context is different or the question is asking something else. </li>
     <li> In contrast, I could study model #1 first - study my notes, do practice problems, and solve past exam questions on model #1. This will help me fully understand the <i><b>core</b></i> of model #1 and allow me to compare/contrast different applications of the model. In this way, I am not memorizing how to solve specific application problems, but really trying to understand all aspects of the model.</li>
     <li> <a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=366404674">Example</a> - this was the mapping I used to organize practice problems by themes, which I used during prelim exam preparation. </li>
   </ul> 
@@ -106,9 +115,9 @@ The main techniques I used to stay organized while studying were having a themat
   <ul>
     <li> About 2 weeks before each exam, I would make a spreadsheet of some past exam questions that would be good practice. <a href="https://docs.google.com/spreadsheets/d/1pYwW-Cp8iEbguizOo3REEN4q_uzYDdm04OrZ6_cSobU/edit?usp=sharing">Example</a> </li>
     <li> We would each “sign-up” to be responsible for certain past exams/questions, solve the exam, and upload our solution to a Google Drive. </li>
-    <li> The benefits were two-fold. (1) As we were working and studying at our own pace, we could check our solutions against each other’s and ask questions/discuss differences. This was especially helpful when there were not any provided solutions from the professor. (2) We had a dedicated time to chat about things we were confused about or wanted to highlight as tricky/interesting. </li>
+    <li> The benefits were two-fold. (1) As we were studying at our own pace, we could check our solutions against each other’s and ask questions/discuss differences. This was especially helpful when there were not any provided solutions from the professor. (2) We had a dedicated time to chat about things we were confused about or wanted to highlight as tricky/interesting. </li>
     <li> As the year progressed, we did not meet all too frequently or discuss things for each class, but some folks continued the practice of uploading solutions and we all were available to discuss challenging questions/compare solutions in a more fluid manner in our offices.</li>
-    <li> As much as I wanted structured study groups, the reality is that everyone studies at their own pace and at different times - and that's ok! At the end of the day, everyone should do what works for them! For me, it became important to just have some peers I could reach out to in case there was anything I wanted to discuss and a platform to share work. </li>
+    <li> As much as I wanted structured study groups, the reality is that everyone studies at their own pace and at different times - and that's ok! At the end of the day, everyone should do what works for them! For me, it became important to just have a platform to share work and some peers I could reach out to with questions. </li>
   </ul>
   </li>
   <li> <i><b>Office hours:</b></i> I loved going to office hours. I was intimidated at first that my questions were too silly/basic, but after not doing well on my first test, it sunk in that it’s better to ask and be honest about what I don't understand than to not. I strategically would go to our TA’s office hours when my questions were more minor/specific to a particular problem and to our professor’s office hours when I had broader questions. I also benefited from others being in office hours who had similar questions or asked questions I could ask follow-ups to. </li>
@@ -135,7 +144,7 @@ The main techniques I used to stay organized while studying were having a themat
 ## Prelims Preparation
 A lot of the second year students and other faculty instilled in us confidence that we would pass prelims. But it is easier to retrospectively say that after they had all passed themselves! Prelims are tough and I don't want to downplay the hardwork and stress that comes with studying for them. If we didn’t pass them, we’d need to retake them, and if we didn’t pass the retakes, we weren’t qualified to continue in the PhD. So the pressure was on. 
 
-We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the quarter's coursework/exams. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep. It was a cycle of eat, study econ, sleep, repeat.
+We had about 5 days between our last final exam of the quarter and the month of preliminary exams, so the entire Spring quarter was truly a grind as we were balancing prelims preparation with the quarter's coursework/exams. I’ve never worked harder in my life - I was dreaming about solving problems in my sleep. It was a cycle of eat, econ, sleep, repeat.
 
 I began preparing for prelims over Spring break, around 10 weeks before our first prelim. My strategy encompassed:
 <ul>
@@ -161,13 +170,13 @@ I began preparing for prelims over Spring break, around 10 weeks before our firs
         <li> <i>Chair</i> comfort (Could I sit for 5 and a half hours comfortably or should I bring a cushion?) </li>
       </ul>
     </li>
-    <li> From a content perspective, the mock exams were very valuable in forcing me to think of problems without any references. While practicing outside of mocks, I would always try to solve problems without resources, but I did occasionally look at my notes or the answer keys when stuck so that I could save time studying. Taking exams without references forced me to practice taking my time while solving problems and practice adding notes about my intuition if I did not feel very strongly about a result. This in turn gave me the confidence that I could solve challenging problems independently and even if I got stuck, I could write something to show what I knew.  </li>
+    <li> From a content perspective, the mock exams forced me to solve problems without any references. While practicing outside of mocks, I would always try to solve problems without resources, but I did occasionally look at my notes or the answer keys when stuck so that I could save time studying. Taking exams without references let me practice solving problems realistically and practice adding notes about my intuition if I did not feel very strongly about a result. This in turn gave me the confidence that I could solve challenging problems independently and even if I got stuck, I could write something to show what I knew.  </li>
     <li> The mocks were extremely useful in helping me feel confident and comfortable on exam day. I was prepared with what I needed to bring, how I should manage my pages, how I should spend my time, and how my body would feel. </li>
   </ul>
   </li>
 </ul>
 
-> I can’t describe it, but I observed that as we were all studying for prelims, beautiful moments happened where concepts “clicked." Some of the content we learned across classes started to intertwine in a way that helped us all understand what we were learning more clearly. Persistence was key to finding these moments.
+> I can’t describe it, but I observed that as we were all studying for prelims, beautiful moments happened where concepts “clicked." Some of the content we learned across classes started to intertwine in a way that helped us all understand what we were learning more clearly.
 
 ## Prelims
 We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and spaced out by one week in between each exam. 
@@ -178,7 +187,7 @@ We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and sp
   <ul>
     <li> During the exam itself, I tried to execute everything I learned from the mocks and stayed confident throughout.  </li>
     <li> After the exam, I tried to not talk about it. It was done and there was nothing I could do to change what I wrote. There was no point in worrying or overthinking. </li>
-    <li> The exams were a lot more physically demanding than the mocks (probably because of the pressure and brain power used on the test), so I took the remaining time of the day to rest and recover, and only started for the next prelim the following day. </li>
+    <li> The exams were a lot more physically demanding than the mocks (probably because of the pressure and brain power used on the test), so I took the remaining time of the day to rest and recover. </li>
   </ul>
   </li>
 </ul>
@@ -262,7 +271,7 @@ Despite all the all-day, every-day studying in first year (which was very stress
     </div>
 </div>
 <div class="caption">
-    My first day of classes, 2023
+    My first day of classes, Fall 2022
 </div>
 
 # Contents

@@ -17,7 +17,7 @@ Coming into a PhD program without a Masters degree and after working was definit
 
 Many resources emphasize the importance of “studying,” “working in groups” and “learning how to think.” When I got to grad school, everyone said their weekend plans involved “studying” - but I never really knew what people were doing! While my reflections, routines, and resources may seem obvious to me now, I definitely had not developed them or thought about them prior to starting my first year. I thought it might be helpful to document what I wish I knew before I started my PhD. 
 
-I want to emphasize that I do not think there is “one way” or “right way” to do “well” during the first year, but I want to share tips of “a way.” Everyone has their own preferred ways of learning/balancing life and many of my classmates were extremely successful (or more successful!) in navigating first year in their own ways. Therefore, I hope people treat these tips as an <i><b>example</b></i> of some practical techniques that worked for me. What worked for me may not work for others and what worked for others may not have worked for me. And that’s ok. 
+I want to emphasize that I do not think there is “one way” or “right way” to do “well” during the first year, but I want to share <i>“a way.”</i> Everyone has their own preferred ways of learning/balancing life and many of my classmates were extremely successful (or more successful!) in navigating first year in their own ways. Therefore, I hope people treat these tips as an <i><b>example</b></i> of some practical techniques that worked for me. What worked for me may not work for others and what worked for others may not have worked for me. And that’s ok. 
 
 > Hopefully this three-part series can add some <i><b>practical</b></i> context that can help prospective and current first students navigate their own paths! 
 
@@ -31,7 +31,7 @@ View the three parts here:
 
 # First Year Video
 Here is a quick compilation of some of the fun moments I experienced with the department, my cohort, my friends, and my family. 
-There was indeed a <b>lot</b> of studying every day, but there were also many small outlets of joy that I was lucky enough to find and tried to highlight in this video :)
+There was indeed a <b>lot</b> of studying every day, but there were also many small outlets of joy that I was lucky enough to find and tried to showcase in this video :)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/UC Davis - Year 1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
