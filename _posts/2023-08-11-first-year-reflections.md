@@ -19,15 +19,15 @@ Going back to school for me was hard. I did not have a Masters degree, did not d
 
 > The academic twin goals of first year are to build a strong math/econ foundation and to pass preliminary exams.
 
-For me, it was very important to also stay motivated.  I found it helpful to take a step back and think about why I was excited about doing a PhD in the first place. Yes, math camp and the theory sequences are important, but I knew I was more excited to start my research. So I tried to constantly motivate myself by thinking about why what we were learning was important, going to seminars, and by telling myself that my GPA was not indicative of how good of a researcher I would be. Therefore, although I was also motivated to do well academically, I felt extra-motivated to get through first year by being excited about what's next to come.
+For me, it was very important to also stay motivated.  I found it helpful to take a step back and think about why I was excited about doing a PhD in the first place. Yes, math camp and the theory sequences are important, but I knew I was more excited to start my research. So I tried to constantly motivate myself by thinking about why what we were learning was important, by going to seminars, and by telling myself that my GPA was not indicative of how good of a researcher I would be. Therefore, although I was also motivated to do well academically, I felt extra-motivated to get through first year by being excited about what's next to come.
 
 If you've completed the first year of an Econ PhD, many of these reflections may seem obvious. But these reflections are what I wish I could go back and tell myself prior to starting. I hope these more practical tips help others who are about to start their programs!
 
 ## Pre-Math Camp
 
-I gave myself a month off between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. It was nice to relax. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
+I gave myself a month off between my last day at work and the beginning of math camp. I moved in with my parents and spent time with family and friends. It was a nice funemployment period. I tried to close up some personal projects I was working on. I also tried to get myself set-up for school: I bought an iPad and set-up Notability (which I highly recommend!!). I read a few books, skimmed some notes I made in undergrad for my math and econ classes, and watched some random youtube videos. So I wouldn’t say I “studied hard” before math camp at all - rather, I familiarized myself with some core concepts so that I wasn’t lost with the basics. I am actually glad I did and wish I knew how I could have focused my review better. 
 
-Based on my experience retrospectively, I think the most important concepts to refresh before math camp are:
+In hindsight, I think the most important concepts to refresh before math camp are:
 <ul>
   <li> Matrix algebra and the definiteness of matrices </li>
   <li> Proof methods </li>
@@ -54,7 +54,7 @@ Lastly, I enjoyed math camp because it gave me an opportunity to try out differe
     </div>
 </div>
 <div class="caption">
-    Photos from UC Davis's campus
+    Photos of UC Davis
 </div>
 
 ## Classes
@@ -81,7 +81,7 @@ The main tools I used to study (pretty standard…) were: class notes/lecture no
   <li> <i><b>Class notes & lecture notes/slides:</b></i> I always took notes separately from lecture slides/lecture notes to capture the explanations professor’s gave in class. I often compared my notes to the lecture slides in case I missed anything. </li>
   <li> <i><b>Problem sets:</b></i> I found it useful to re-do homeworks and problem set problems, whether optional or not. </li>
   <li> <i><b>Textbook questions:</b></i> Not all classes had textbooks, but some did. For the classes with associated textbooks, I found it helpful to skim/attempt some additional questions. </li>
-  <li> <i><b> Past exams/prelims:</b></i> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
+  <li> <i><b>Past exams/prelims:</b></i> If a professor had taught the class before, they often shared past exams (or if they didn’t, sometimes students from older cohorts had them on a Google Drive). I always found it useful to solve these past exams and compare my solutions with the answer keys (if available) or solutions from my peers. </li>
   <li> <i><b>Papers:</b></i> Sometimes it was helpful to read some of the papers that defined the models for ideas on how the model can be applied or altered in different contexts. </li>
 </ul>
 
@@ -151,14 +151,14 @@ I began preparing for prelims over Spring break, around 10 weeks before our firs
   <ul>
     <li> I took note of the following:
       <ul>
-        <li> The <b>temperature</b> of the room (this would help inform how I would dress on exam day) </li>
-        <li> Where the <b>clocks</b> were located (and if I should bring my own) </li>
-        <li> How <b>noisy</b> the room was (were people walking by frequently? Was the AC noisy? Would ear plugs be useful?) </li>
-        <li> How my <b>body</b> was reacting (when did I get hungry? Should I bring more snacks than I did for the mock? How far were the bathrooms? Was I drinking enough water?) </li>
-        <li> How to manage my <b>papers</b> (each question was roughly 10 letter-sized pages for me, so I needed to figure out how to manage those pages. I learned through a mock that I should bring paper clips for each question and binder clips for the full exam). </li>
-        <li> How much space the <b>desks</b> had (I learned from a mock that carrying a bunch of pens and pencils was overwhelming! I learned to bring a cup to keep all writing utensils in so I wouldn’t have to worry about them rolling off of my desk or taking up space) </li>
-        <li> <b>Time management</b> (How long did I take on each question? How did I utilize the reading period?) </li>
-        <li> <b>Chair</b> comfort (Could I sit for 5 and a half hours comfortably or should I bring a cushion?) </li>
+        <li> The <i>temperature</i> of the room (this would help inform how I would dress on exam day) </li>
+        <li> Where the <i>clocks</i> were located (and if I should bring my own) </li>
+        <li> How <i>noisy</i> the room was (were people walking by frequently? Was the AC noisy? Would ear plugs be useful?) </li>
+        <li> How my <i>body</i> was reacting (when did I get hungry? Should I bring more snacks than I did for the mock? How far were the bathrooms? Was I drinking enough water?) </li>
+        <li> How to manage my <i>papers</i> (each question was roughly 10 letter-sized pages for me, so I needed to figure out how to manage those pages. I learned through a mock that I should bring paper clips for each question and binder clips for the full exam). </li>
+        <li> How much space the <i>desks</i> had (I learned from a mock that carrying a bunch of pens and pencils was overwhelming! I learned to bring a cup to keep all writing utensils in so I wouldn’t have to worry about them rolling off of my desk or taking up space) </li>
+        <li> <i>Time management</i> (How long did I take on each question? How did I utilize the reading period?) </li>
+        <li> <i>Chair</i> comfort (Could I sit for 5 and a half hours comfortably or should I bring a cushion?) </li>
       </ul>
     </li>
     <li> From a content perspective, the mock exams were very valuable in forcing me to think of problems without any references. While practicing outside of mocks, I would always try to solve problems without resources, but I did occasionally look at my notes or the answer keys when stuck so that I could save time studying. Taking exams without references forced me to practice taking my time while solving problems and practice adding notes about my intuition if I did not feel very strongly about a result. This in turn gave me the confidence that I could solve challenging problems independently and even if I got stuck, I could write something to show what I knew.  </li>
@@ -167,7 +167,7 @@ I began preparing for prelims over Spring break, around 10 weeks before our firs
   </li>
 </ul>
 
-> I can’t describe it, but as I was studying for prelims, beautiful moments happened where concepts “clicked” and some of the content we learned across classes started to intertwine in a way that helped me understand what we were learning more clearly. Persistence was key to finding these moments.
+> I can’t describe it, but I observed that as we were all studying for prelims, beautiful moments happened where concepts “clicked." Some of the content we learned across classes started to intertwine in a way that helped us all understand what we were learning more clearly. Persistence was key to finding these moments.
 
 ## Prelims
 We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and spaced out by one week in between each exam. 

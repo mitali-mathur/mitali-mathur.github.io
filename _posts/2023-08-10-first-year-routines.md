@@ -60,7 +60,7 @@ Finally, I like to document the steps I make towards any personal growth. I used
     </div>
 </div>
 <div class="caption">
-    Photos from UC Davis
+    Photos of UC Davis
 </div>
 
 # Exam Preparation
