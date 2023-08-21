@@ -13,7 +13,13 @@ h5,
 h6,
 em,
 div,
-li,
+
+li {
+    list-style: square;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+},
+
 span,
 strong {
   color: var(--global-text-color);
@@ -413,9 +419,9 @@ footer.sticky-bottom {
 
   li {
     border-bottom: 1px solid var(--global-divider-color);
-    list-style: square;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    list-style: none;
+    padding-top: 0;
+    padding-bottom: 0;
 
     .post-meta {
       color: var(--global-text-color-light);

@@ -76,7 +76,7 @@ Being a full time student means not working full time. As such, I found it extre
 # Contents
 Jump to the next parts:
 <ul>
-  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">References:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
   <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-resources/">Resources:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
 </ul>
 
