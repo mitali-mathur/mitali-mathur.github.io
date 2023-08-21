@@ -15,9 +15,11 @@ My first year was unlike anything I’ve experienced before. The program was mor
 
 # Academic Reflections
 
-Going back to school for me was hard. I did not have a Masters degree, did not do a pre-doc, and I had worked for 3 years after undergrad and before the start of the Econ PhD.  
+Going back to school for me was hard. I did not have a Masters degree, did not do a pre-doc, and I had worked for 3 years after undergrad and before the start of the Econ PhD.
 
 > The academic twin goals of first year are to build a strong math/econ foundation and to pass preliminary exams.
+
+For me, it was very important to also stay motivated.  I found it helpful to take a step back and think about why I was excited about doing a PhD in the first place. Yes, math camp and the theory sequences are important, but I knew I was more excited to start my research. So I tried to constantly motivate myself by thinking about why what we were learning was important, going to seminars, and by telling myself that my GPA was not indicative of how good of a researcher I would be. Therefore, although I was also motivated to do well academically, I felt extra-motivated to get through first year by being excited about what's next to come.
 
 If you've completed the first year of an Econ PhD, many of these reflections may seem obvious. But these reflections are what I wish I could go back and tell myself prior to starting. I hope these more practical tips help others who are about to start their programs!
 

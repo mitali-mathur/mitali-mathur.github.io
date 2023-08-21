@@ -133,9 +133,166 @@ As mentioned earlier, these study guides are very basic and foundational. They a
 ---
 
 ### Macroeconomic Theory
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1G6XPnA12i87SpT57VFcRL9O-wFkGtbGi/view?usp=sharing">Dynamic Programming</a></td>
+    <td>Euler's equations and Bellman equations. Continuous vs. discrete time. Social Planner's problem, Arrow-Debreu equilibrium, Sequential markets equilibrium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1wowRL4hRMollkUzrPq8q5uUf5GPivVhO/view?usp=sharing">Endowments</a></td>
+    <td>Equilibrium prices and allocations for Arrow-Debreau and sequential markets equilibrium. Deterministic and stochastic cases.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1zLsxRVMq9xx0AuoR36UQ8F3slXP44i0g/view?usp=sharing">Recursive Competitive Equilibrium</a></td>
+    <td>Defining and solving for a recursive competitive equilibrium. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1irBCC2To_zCe0Zfuyvrz3C6asF7sX0wb/view?usp=sharing">Job search</a></td>
+    <td>McCall model. Diamond-Mortensen-Pissarides model. Exogenous and endogenous job destruction. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1zS4NwNoXBM7VoSZP0LII_HSzyPwLZ8Rf/view?usp=sharing">Lucas Tree Asset Pricing</a></td>
+    <td>Certaintry and stochastic environment. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1K97HMI-9rCxBx4VkCVBBS4x8dt3tEbRB/view?usp=sharing">Kiyotaki-Wright</a></td>
+    <td>Value functions. Equilibrium. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/12bdKcnurShNBud3k-z8j83oyPe-Qg_wp/view?usp=sharing">Lagos-Wright</a></td>
+    <td>Decentralized vs. centralized market value functions. Solving the bargaining problem under Kalai bargaining vs. Take-it-or-leave-it bargaining. Finding steady state equilibrium. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1P_iyOEl-K4LACaG4P8y4lBkOea7btzzH/view?usp=sharing">Markov Chains</a></td>
+    <td>Conditional probabilities. Unconditional vs. conditional expectations. Stationary distributions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1LXyZ3ukpLSQ-e4nFm7fe90byM9dU8xQA/view?usp=sharing">Neoclassical Growth</a></td>
+    <td>Deterministic vs. stochastic growth. Solution methods: guess and verify, value function iteration, linearization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1U_FoqoaRm6tNi0c6nABAIhNdOz6BaAIH/view?usp=sharing">Real Business Cycles</a></td>
+    <td>Centralized vs. decentralized. Detrended model. Balanced growth. Steady state. Extensions: indivisible labor, capital utilization, habit persistence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/11TNAN0r95XgZd6qGQ4Ai7EwMXN_mwa_4/view?usp=sharing">Fiscal Policy</a></td>
+    <td>Ricardian equivalence. Optimal borrowing. Impacts of government spending on consumption and output.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1lUXBW1IXQaa8Z_mgeQFWfyUEnrkT14Ko/view?usp=sharing">Monetary Policy</a></td>
+    <td>Real block vs. nominal block. Monetary neutrality. Taylor rule and Friedman rule.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1YEtLjZg5RC_rGNbZo048wM5Ad7dDwzaK/view?usp=sharing">New Keynesian Model</a></td>
+    <td>Calvo pricing. Three equation model: dynamic IS curve, New-Keynesian Phillips curve, monetary policy.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1T-XAlODc7Wi7GjRCACHvSlpAMuI56I5o/view?usp=sharing">Optimal policy</a></td>
+    <td>Distortions. Discretionary vs. commitment policies.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/11Zkk8Ks7DlYDTA0mGtH0XQMJt6Yx0vws/view?usp=sharing">Net worth channel</a></td>
+    <td>Two-period model between entrepreneurs and financiers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1fE-1jp6acbkDrpQ86g7nbr4lEebKpJ3n/view?usp=sharing">Moral hazard</a></td>
+    <td>Contract problem between entrepreneurs and financiers.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/14LoRqv4q_4FGJ3biNkQenFcr0F07yRj9/view?usp=sharing">Overlapping Generations Model</a></td>
+    <td>Two-period model in an exchange vs. production economy</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1VeP0DLrPkrGyXwK8cuFsXDG9vIkvvZv8/view?usp=sharing">Financial Accelerator</a></td>
+    <td>Model with net worth - with and without frictions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1fzpqdbibM8ejF49czbXjIwSRKtJVQ0zs/view?usp=sharing">Fire sales</a></td>
+    <td>Bernanke & Gertler. Lorenzoni.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1euhug7tdspSLgdRS_cQs37obqCGQklZq/view?usp=sharing">Insurance</a></td>
+    <td>Holmstrom & Tirole. Two cases: perfect foresight vs. risk. Inside vs. outside liquidity.</td>
+  </tr>
+</table>
+
+---
 
 ### Econometric Theory
 
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1JJv3s4dV8AV1Z0KmpRK30jbltDhk8SdL/view?usp=sharing">Probability & counting</a></td>
+    <td>Key formulas and properties.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1rS50-ZCeVhG7BXGi1tqFRxLERDe7DEDb/view?usp=sharing">Random variables</a></td>
+    <td>Discrete vs. continuous variables. Transformations. Different distributions. Bivariate distributions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/194nwSDo7_1qxV3t9_yuSAtP5Ztv6HgYw/view?usp=sharing">Asymptotic theory</a></td>
+    <td>Law of large numbers and central limit theorem. Delta method. Continuous mapping theorem.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1nVJt8SyJf3R3oKYhcD9LC42razXGQtkv/view?usp=sharing">Statistical modeling</a></td>
+    <td>Maximum likelihood estimation. Hypothesis testing. Interval testing. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1iicMKg9PQokH0bFindN3m8AlI_IuiOQE/view?usp=sharing">Conditional expectations</a></td>
+    <td>Conditional expectation function & linear projections. Causal model. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1BX2ViVgoo8-ilyoO6HK5TgPvX3LmZZBb/view?usp=sharing">Ordinary Least Squares</a></td>
+    <td>Assumptions. Matrices. Properties.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1ob3wcCDYdMj3xBgdLfJ-TiQMo93ZK4_e/view?usp=sharing">Testing</a></td>
+    <td>Key statistics: T-stat, Wald-stat, F-stat, Haussman-stat. Types of errors. Power. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1_Wd1TtpLfElxDnVZYhFjWE75J8oBLI_B/view?usp=sharing">Bootstrapping</a></td>
+    <td>Confidence intervals. T-statistics. Sampling approaches: parametric, non-parametric, wild.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/13rpToRMFdzwydIgSIVLsvW66e6YVrp2z/view?usp=sharing">Time series</a></td>
+    <td>Asymptotic theory. Trends/non-stationarity. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/10qn58eUSFdJRR_gitQ2UcRTdPO8QCJFi/view?usp=sharing">M-estimation</a></td>
+    <td>Consistency. Identification. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/13aW4azL4JXK7dxIurU2dpuFwk68vX0kk/view?usp=sharing">Nonlinear estimation</a></td>
+    <td>M-estimation for non-linear estimation. Asymptotic normality. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1ptYZb3XAluqe8vTlB9vWPON-PIlCTLcN/view?usp=sharing">Binary choice</a></td>
+    <td>Probit vs. Logit.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1Z-s6zG4UY2uXth-oXJ50D0pg8Ti9PNTZ/view?usp=sharing">Instrumental Variable</a></td>
+    <td>Identification. 2SLS. Asymptotics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1S0Jt7IlWocKIbhNLbQw20-uZJAjg8AZ5/view?usp=sharing">Generalized Method of Moments</a></td>
+    <td>Identification. Tests. </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1cVFxhBjIyEIcEP1TYUHHe4ccfg4-MMBg/view?usp=sharing">Panel Data</a></td>
+    <td>Key models: strict exogeneity, Haussman-Taylor, Arellano-Bond, Blundell-Bond.</td>
+  </tr>
+</table>
+
+---
+I hope that these guides serve as a helpful example of ways to think about breaking down the fundamental concepts of each topic/model you learn. I have no idea if the content will be helpful, but if it is - great! If anyone finds any mistakes or has suggestions for any guide, please email me. 
 
 ## Preliminary Exams Organizer
 I found it extremely lucrative to organize my preparations for preliminary exams. These exams were cumulative and we could be asked anything! That is a lot of material: past prelim exams, past finals, past midterms, and past problems to review. I wanted to ensure that I had a direction with my studying - I did not want to be in a situation in which I would sit down for a prelim and realize I missed studying something. I knew I would have regrets if I saw a question on a topic that was vaguely familiar but that I had completely forgotten to study. 
@@ -150,7 +307,7 @@ I found it extremely lucrative to organize my preparations for preliminary exams
 Once I was in the prelims month period, I didn't add comments or note down the other attempts of solving questions on the Google Sheet. I just used it to navigate what to study - then I tried to be efficient and kept solving as many new and old questions as I could!
 
 ## Midterm/Final Exams Organizer
-<a href="https://docs.google.com/spreadsheets/d/1pYwW-Cp8iEbguizOo3REEN4q_uzYDdm04OrZ6_cSobU/edit?usp=sharing">This</a> is an example of a google sheet I used to study for midterm exams. I created a timeline for myself, and coordinated with a few people who wanted to do group studying to divide and conquer solving some past exams. 
+<a href="https://docs.google.com/spreadsheets/d/1pYwW-Cp8iEbguizOo3REEN4q_uzYDdm04OrZ6_cSobU/edit?usp=sharing">This</a> is an example of a google sheet I used to study for midterm exams. 2 weeks prior to exams, I created a timeline for myself, and coordinated with a few people who wanted to do group studying to divide and conquer solving some past exams. 
 
 # Contents
 Jump to the other parts:
