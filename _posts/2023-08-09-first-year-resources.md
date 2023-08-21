@@ -130,8 +130,6 @@ As mentioned earlier, these study guides are very basic and foundational. They a
   </tr>
 </table>
 
----
-
 ### Macroeconomic Theory
 <table>
   <tr>
@@ -220,8 +218,6 @@ As mentioned earlier, these study guides are very basic and foundational. They a
   </tr>
 </table>
 
----
-
 ### Econometric Theory
 
 <table>
@@ -292,6 +288,7 @@ As mentioned earlier, these study guides are very basic and foundational. They a
 </table>
 
 ---
+
 I hope that these guides serve as a helpful example of ways to think about breaking down the fundamental concepts of each topic/model you learn. I have no idea if the content will be helpful, but if it is - great! If anyone finds any mistakes or has suggestions for any guide, please email me. 
 
 ## Preliminary Exams Organizer
