@@ -316,7 +316,7 @@ Once I was in the prelims month period, I didn't add comments or note down the o
 Jump to the other parts:
 <ul>
   <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-references/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
-  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post shares some examples of routines I found were important to develop and maintain. </li>
 </ul>
 
 Return to the <a href="https://mitali-mathur.github.io/blog/2023/first-year-blog/">landing page</a> of this series
