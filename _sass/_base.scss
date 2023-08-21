@@ -25,7 +25,8 @@ hr {
 
 table {
   td {
-    border: 1px var(--global-theme-color)
+    border: 1px solid var(--global-theme-color);
+    padding: 8px;
     }
   th {
     font-size: 1rem;
