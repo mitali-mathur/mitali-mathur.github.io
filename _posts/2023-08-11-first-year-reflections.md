@@ -183,9 +183,7 @@ We had 3 preliminary exams (Macro, Micro, Metrics), which were cumulative and sp
   </li>
 </ul>
 
-> Overall, I think the prelim exams were very demanding, but I felt that the entire year was solid preparation that gave us the tools to succeed.
-
-After going through the stress of studying for hours each day, I felt a great sense of confidence after passing prelims and am now really looking forward to the next year of classes. 
+After going through the stress of studying for hours each day, I felt a great sense of confidence after passing prelims and am now really looking forward to the next year of classes.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

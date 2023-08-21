@@ -298,7 +298,7 @@ I hope that these guides serve as a helpful example of ways to think about break
 ## Preliminary Exams Organizer
 I found it extremely lucrative to organize my preparations for preliminary exams. These exams were cumulative and we could be asked anything! That is a lot of material: past prelim exams, past finals, past midterms, and past problems to review. I wanted to ensure that I had a direction with my studying - I did not want to be in a situation in which I would sit down for a prelim and realize I missed studying something. I knew I would have regrets if I saw a question on a topic that was vaguely familiar but that I had completely forgotten to study. 
 
-<a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=366404674">Here</a> is the prelims planning spreadsheet I used (as an example). The tabs are:
+<a href="https://docs.google.com/spreadsheets/d/1VIBMYGmYGjYhlQpeq_dArFEDArKR-c6dhV4xO2ya9AA/edit#gid=1827302622">Here</a> is the prelims planning spreadsheet I used (as an example). The tabs are:
 <ul>
   <li> <i><b>Topics:</b></i> I categorized concepts and models we learned into broader themes. I organized them by quarter and subject (Macro/Micro/Metrics). </li>
   <li> <i><b>Micro, Macro, Metrics:</b></i> I organized all of the past problem sets, midterms, finals, and prelims I had access to by topic. I highlighted the past prelims to emphasize them. I included a column in which I could take notes on my experience solving the question, which I later referenced if I wanted to re-attempt a challenging problem of a particular topic/theme/model. These sheets really helped me streamline and prioritize my studying.  </li>
