@@ -24,21 +24,15 @@ hr {
 }
 
 table {
-  border-collapse: collapse;
+  td,
+  th {
+    font-size: 1rem;
+  }
+
+  th {
+    font-weight: bold;
+  }
 }
-
-td, th {
-  border: 1px solid var(--global-theme-color);
-  padding: 8px;
-  text-align: left;
-  font-size: 1rem;
-}
-
-th {
-  font-weight: bold;
-}
-
-
 
 a,
 table.table a {
