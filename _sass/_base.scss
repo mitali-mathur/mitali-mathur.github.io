@@ -24,15 +24,19 @@ hr {
 }
 
 table {
-  td,
-  th {
-    font-size: 1rem;
-  }
-
-  th {
-    font-weight: bold;
-  }
+  border-collapse: collapse;
+  border: 1px solid black;
 }
+
+table td,
+table th {
+  font-size: 1rem;
+}
+
+table th {
+  font-weight: bold;
+}
+
 
 a,
 table.table a {

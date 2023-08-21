@@ -130,6 +130,8 @@ As mentioned earlier, these study guides are very basic and foundational. They a
   </tr>
 </table>
 
+---
+
 ### Macroeconomic Theory
 <table>
   <tr>
@@ -217,6 +219,8 @@ As mentioned earlier, these study guides are very basic and foundational. They a
     <td>Holmstrom & Tirole. Two cases: perfect foresight vs. risk. Inside vs. outside liquidity.</td>
   </tr>
 </table>
+
+---
 
 ### Econometric Theory
 
