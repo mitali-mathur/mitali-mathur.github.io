@@ -24,9 +24,13 @@ hr {
 }
 
 table {
+  tr{
+    border: 1px solid var(--global-theme-color);
+    padding: 10px;
+  }
   td {
     border: 1px solid var(--global-theme-color);
-    padding: 8px;
+    padding: 10px;
     }
   th {
     font-size: 1rem;
