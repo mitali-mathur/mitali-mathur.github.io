@@ -133,13 +133,6 @@ As mentioned earlier, these study guides are very basic and foundational. They a
 ---
 
 ### Macroeconomic Theory
-| Topic    | Description |
-|:---------|:------------|
-| <a href="https://drive.google.com/file/d/1G6XPnA12i87SpT57VFcRL9O-wFkGtbGi/view?usp=sharing">Dynamic Programming</a>   | Euler's equations and Bellman equations. Continuous vs. discrete time. Social Planner's problem, Arrow-Debreu equilibrium, Sequential markets equilibrium.    |
-| <a href="https://drive.google.com/file/d/1wowRL4hRMollkUzrPq8q5uUf5GPivVhO/view?usp=sharing">Endowments</a>   | Equilibrium prices and allocations for Arrow-Debreau and sequential markets equilibrium. Deterministic and stochastic cases.    |
-| <a href="https://drive.google.com/file/d/1zLsxRVMq9xx0AuoR36UQ8F3slXP44i0g/view?usp=sharing">Recursive Competitive Equilibrium</a>   | Defining and solving for a recursive competitive equilibrium.    |
-
----
 
 <table>
   <tr>
