@@ -61,6 +61,9 @@ As mentioned earlier, these study guides are very basic and foundational. They a
     <td>A link to the study guide on Google Drive </td>
     <td>A description of some of the topics covered</td>
   </tr>
+</table>
+
+Below are the guides!
 
 ---
 
