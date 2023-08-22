@@ -18,6 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am an aspiring economist whose interests lie at the intersection of migration, development, and labor.
 
-Prior to beginning my Ph.D. in economics, I spent time working on research projects in the development sector. I have spent time working in India and Kenya on research projects related to migration, gender, data quality and behavioral nudges. 
+Prior to beginning my Ph.D. in economics, I spent time working on research projects in the development sector. I have worked on research projects related to migration, gender, data quality and behavioral nudges. 
 
-I enjoy traveling, hiking, playing ultimate frisbee, and scuba diving.
+I <a href="https://mitali-mathur.github.io/blog/2023/personal/">enjoy</a> traveling, hiking, playing ultimate frisbee, scuba diving, Odissi dancing, and grilling.
