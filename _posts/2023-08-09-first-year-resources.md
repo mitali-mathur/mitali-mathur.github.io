@@ -52,6 +52,18 @@ In the spirit of publishing public goods, I would like to share some of the stud
 ## Study Guides
 As mentioned earlier, these study guides are very basic and foundational. They are not deep-dives into all applications of a concept, because there can be many! Rather, I tried to isolate the base models we learned and compare/contrast topics. I found these guides very helpful to make and helpful to review (especially when wanting to study models for prelims after many months of not thinking about them!). I decided not to type these guides out on Latex because I wanted to provide an example of some raw and realistic study guides created during the school year. I have no idea if they will be helpful, but if they can be, I am happy to share them! At least they can also illustrate some of the key topics we covered in first year!
 
+All guides are organized as follows: 
+
+<table class="bootstrap-table bootstrap4">
+  <tr>
+    <th>Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>A link to the study guide on Google Drive </td>
+    <td>A description of some of the topics covered</td>
+  </tr>
+
 ---
 
 ### Microeconomic Theory
