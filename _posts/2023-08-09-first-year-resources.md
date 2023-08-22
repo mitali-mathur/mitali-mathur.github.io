@@ -62,8 +62,6 @@ As mentioned earlier, these study guides are very basic and foundational. They a
     <td>A description of some of the topics covered</td>
   </tr>
 
-Below are the guides!
-
 ---
 
 ### Microeconomic Theory
