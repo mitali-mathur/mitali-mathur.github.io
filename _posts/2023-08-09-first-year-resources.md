@@ -328,7 +328,7 @@ Once I was in the prelims month period, I didn't add comments or note down the o
 # Contents
 Jump to the other parts:
 <ul>
-  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-references/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
+  <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-reflections/">Reflections:</a> This post describes some practical tips I have for finding academic success and feeling socially connected. </li>
   <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-routines/">Routines:</a> This post shares some examples of routines I found were important to develop and maintain. </li>
 </ul>
 
