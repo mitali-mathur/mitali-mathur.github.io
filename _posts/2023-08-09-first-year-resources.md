@@ -50,7 +50,7 @@ I am very obsessed with organization and found the following tools very useful:
 In the spirit of publishing public goods, I would like to share some of the study tools I created and described in previous posts. 
 
 ## Study Guides
-As mentioned earlier, these study guides are very basic and foundational. They are not deep-dives into all applications of a concept, because there can be many! Rather, I tried to isolate the base models we learned and compare/contrast topics. I found these guides very helpful to make and helpful to review (especially when wanting to study models for prelims after many months of not thinking about them!). I decided not to type these guides out on Latex because I wanted to provide an example of some raw and realistic study guides created during the school year. I have no idea if they will be helpful, but if they can be, I am happy to share them! 
+As mentioned earlier, these study guides are very basic and foundational. They are not deep-dives into all applications of a concept, because there can be many! Rather, I tried to isolate the base models we learned and compare/contrast topics. I found these guides very helpful to make and helpful to review (especially when wanting to study models for prelims after many months of not thinking about them!). I decided not to type these guides out on Latex because I wanted to provide an example of some raw and realistic study guides created during the school year. I have no idea if they will be helpful, but if they can be, I am happy to share them! At least they can also illustrate some of the key topics we covered in first year!
 
 ---
 
@@ -120,6 +120,83 @@ As mentioned earlier, these study guides are very basic and foundational. They a
     <td><a href="https://drive.google.com/file/d/19JCFddU-lrOoA3dizHBnut-YRG3KbN_Q/view?usp=sharing">Knowledge</a></td>
     <td>Knowledge and common knowledge. Incomplete information. Harsanyi transformation. Common priors. </td>
   </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1mEnGAFGBAaBuyeiedrj-xc1VmwPDnxgj/view?usp=sharing">Insurance</a></td>
+    <td>Monopoly vs. perfect competition. Perfect information vs. imperfect information.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1JuYtorFU_B1xtV4Gsz30Vf-4C2gc9xf7/view?usp=sharing">Bundling</a></td>
+    <td>One bundle vs. two bundles depending on consumer types.</td>
+  </tr>
+</table>
+
+---
+
+<table class="bootstrap-table bootstrap4">
+  <tr>
+    <th>Topic</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/13Bm_qXyD8NUaYAwFqs7eMWEmRPnVqV3w/view?usp=sharing">Preferences & Utility</a></td>
+    <td>Chapters 1 and 2 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Types of preference relations and relationships to representable utility functions. Key theorems.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1tX5XHAUMJCP5TsV45TlrKSOVpoUJ6mrV/view?usp=sharing">Revealed Preference</a></td>
+    <td>Weak Axiom of revealed preferences. Strong Axiom of revealed preferences. General Axiom of revealed preferences.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1wRl-0NJO1XalpkoZEb8NL25suaY1dpH8/view?usp=sharing">Walrasian Demand</a></td>
+    <td>Chapter 2 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Budget sets. Comparative statics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1EGd2W4MdPHlzHUroKkhqtAKi9mIJA1bi/view?usp=sharing">Consumer theory</a></td>
+    <td>Chapter 3 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Utility maximization and expenditure minimization. Integrability. Welfare analysis.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1rhkaTwoX2HwnJs5kFVXyJCwwW8R0W_Xp/view?usp=sharing">Aggreggation</a></td>
+    <td>Chapter 4 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Aggregate demand. Representative consumer. Key propositions.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1Il6Y5da1e3cwHT65ixdA2w_deJ35s5oc/view?usp=sharing">Producer theory</a></td>
+    <td>Chapter 5 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Production sets. Profit maximization and cost minimization.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/16dS-s4N5YL198SPc7IUhKf3PiFArfxQS/view?usp=sharing">Uncertainty</a></td>
+    <td>Chapter 6 of Mas-Collel, Whinston, and Green's Microeconomic Theory textbook. Expected utility theory. Risk attitudes.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/17_ouCFYjJKDuRUCfbjKMpYQ5tGndsXbi/view?usp=sharing">Competitive Equilibrium</a></td>
+    <td>Equilibrium in an exchange vs. production economy. Finding competitive equilibrium. Walras's Law.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/16ny4BExiTeYD2iPNGbMI6LlJJo2z2i4S/view?usp=sharing">ADR Equilibrium</a></td>
+    <td>Contingent markets equilibrium (Debreu). Elementary securities equilibrium (Arrow). Financial Markets equilibrium (Radner)</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/10OBqe2xIIRp4sp9-XOiBeDxHYxtQznXF/view?usp=sharing">Normative Analysis</a></td>
+    <td>First fundamental theorem of welfare economics. Second fundamental theorem of welfare economics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1JaQoKQ5_pXuXjUxvJortEHhjyBEbZKLB/view?usp=sharing">Market Failures</a></td>
+    <td>Key market failures: externalities, non-competitive behavior, public goods, incomplete markets. Key solution methods: pigouvian taxes, consumption permits, Lindahl equilibrium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1z8qMjIuC-7ujaAMPttVK9ku08AXaGpM8/view?usp=sharing">Strategic form games</a></td>
+    <td>Dominance in games. Nash equilibrium. Cournot Equilibrium. Bertrand Equilibrium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1UgXisGMtD10omHiigYlurDP_510l85B-/view?usp=sharing">Extensive form games</a></td>
+    <td>Games with perfect vs. imperfect information. Games with probabilistic outcomes. Mixed strategies. Backwards Induction. Subgame-perfect-equilibrium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/15cD8iLwALQUVEkPBIVP7gTciG0Fb87yv/view?usp=sharing">Weak Sequential Equilibrium</a></td>
+    <td>Pure strategy and mixed strategy weak sequential equilibrium.</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/19JCFddU-lrOoA3dizHBnut-YRG3KbN_Q/view?usp=sharing">Knowledge</a></td>
+    <td>Knowledge and common knowledge. Incomplete information. Harsanyi transformation. Common priors. </td>
+  </tr> 
   <tr>
     <td><a href="https://drive.google.com/file/d/1mEnGAFGBAaBuyeiedrj-xc1VmwPDnxgj/view?usp=sharing">Insurance</a></td>
     <td>Monopoly vs. perfect competition. Perfect information vs. imperfect information.</td>
