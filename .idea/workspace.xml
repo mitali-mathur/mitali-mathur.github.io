@@ -7,9 +7,6 @@
     <list default="true" id="f027e822-59f5-4782-b9cd-f19e5e872a15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2023-08-01-personal.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-01-personal.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/21.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,5 +89,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
