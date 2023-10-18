@@ -11,38 +11,38 @@ nav_order: 3
 
 <b>UC Davis</b>
 
-<ul>
-    <li>ECN 1A: Principles of Microeconomics
-    <ul>
-    <li> Professor: Gregory Clark </li>
-    <li> <a href="https://drive.google.com/file/d/1_7rk74Bfkt1oVVByqaUrt0FKhDRhVtVP/view?usp=share_link">Syllabus</a></li>
-    </ul>
-    </li>
-    <li>ECN 1B: Principles of Macroeconomics
-    <ul>
-    <li> Professor: Nicolas Caramp </li>
-    <li> <a href="https://drive.google.com/file/d/1leJl92tOzPggIzqaHn2yc_HHtYp2UBoz/view?usp=share_link">Syllabus</a></li>
-    </ul>
-    </li>
-    <li>ECN 101: Intermediate Macroeconomic Theory
-    <ul>
-    <li> Professor: Paul Bergin </li>
-    <li> <a href="https://drive.google.com/file/d/16pM9WzXUKn1WoHY6EypzfYIS8lYaVQkU/view?usp=share_link">Syllabus</a></li>
-    </ul>
-    </li>
-    <li>ECN 115B: Economic Development
-    <ul>
-    <li> Instructor: Soccoro Pardo Martinez </li>
-    <li> <a href="https://drive.google.com/file/d/1E4R-6yvnabWcZqz1tpNCU00G8UJ71WDr/view?usp=share_link">Syllabus</a></li>
-    </ul>
-    </li>
-    <li>ECN 145: Transportation Economics
-    <ul>
-    <li> Professor: Erich Muehlegger </li>
-    <li> <a href="https://drive.google.com/file/d/1-uK7_2gKJask2PId0fQwoctonq2HpvHQ/view?usp=share_link">Syllabus</a></li>
-    </ul>
-    </li>
-</ul>
+<table class="bootstrap-table bootstrap4">
+  <tr>
+    <th>Course</th>
+    <th>Professor</th>
+    <th>Syllabus</th>
+  </tr>
+  <tr>
+    <td>ECN 1A: Principles of Microeconomics</td>
+    <td>Prof. Gregory Clark</td>
+    <td><a href="https://drive.google.com/file/d/1_7rk74Bfkt1oVVByqaUrt0FKhDRhVtVP/view?usp=share_link">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>ECN 1B: Principles of Macroeconomics</td>
+    <td>Prof. Nicolas Caramp</td>
+    <td><a href="https://drive.google.com/file/d/1leJl92tOzPggIzqaHn2yc_HHtYp2UBoz/view?usp=share_link">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>ECN 101B: Intermediate Macroeconomic Theory</td>
+    <td>Prof. Paul Bergin</td>
+    <td><a href="https://drive.google.com/file/d/16pM9WzXUKn1WoHY6EypzfYIS8lYaVQkU/view?usp=share_link">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>ECN 115B: Economic Development</td>
+    <td>Instr. Soccoro Pardo Martinez</td>
+    <td><a href="https://drive.google.com/file/d/1E4R-6yvnabWcZqz1tpNCU00G8UJ71WDr/view?usp=share_link">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>ECN 145: Transportation Economics</td>
+    <td>Prof. Erich Muehlegger</td>
+    <td><a href="https://drive.google.com/file/d/1-uK7_2gKJask2PId0fQwoctonq2HpvHQ/view?usp=share_link">Syllabus</a></td>
+  </tr>
+</table>
 
 <b>Georgetown University</b>
 
