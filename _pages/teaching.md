@@ -47,6 +47,12 @@ nav_order: 3
     <td><a href="https://drive.google.com/file/d/1-uK7_2gKJask2PId0fQwoctonq2HpvHQ/view?usp=share_link">Syllabus</a></td>
   </tr>
   <tr>
+    <td>UC Davis</td>
+    <td>ECN 102C: Analysis of Economics Data</td>
+    <td>Prof. Jenna Stearns</td>
+    <td><a href="https://drive.google.com/file/d/1zv6ZRLiXDZuuSqrqUAfSfpOwCajfCCbZ/view?usp=sharing">Syllabus</a></td>
+  </tr>
+  <tr>
     <td>Georgetown University</td>
     <td>ECN 156: Poverty & Inequality</td>
     <td>Prof. Martin Ravallion</td>
@@ -58,7 +64,7 @@ nav_order: 3
 ---
 
 ### Student Evaluations
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/file/d/1twsv9WJ1OgtepPSdMWtQ8LHk7ApDL7Cx/view?usp=sharing">here.</a>
+Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/file/d/11l45RRN8EK27ZunYFB2ibo1DZ16cWEa8/view?usp=sharing">here.</a>
 
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
@@ -70,3 +76,5 @@ extremely well."
 > "Excellent TA! Her lecture notes were super super organized, which made studying her lectures easy and effective. Her efforts were appreciated."
 
 > "She was super helpful and would go out of her way to present topics that we had mentioned having difficulties in. 10/10"
+
+> "Mitali went above and beyond in helping us with difficult assignments and anything else we needed in the class. As a fourth year, this is the best section experience I've had in all of my time at Davis, and I have no complaints."
