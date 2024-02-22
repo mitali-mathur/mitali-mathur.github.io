@@ -19,6 +19,9 @@ social: false  # includes social icons at the bottom of the page
 I am an aspiring economist whose interests lie at the intersection of migration, development, and labor.
 
 Prior to beginning my Ph.D. in economics, I spent time working on research projects in the development sector. I have worked on research projects related to migration, gender, data quality and behavioral nudges.
-I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and Co-President of the Economics Graduate Student Association at UC Davis.
 
-I <a href="https://mitali-mathur.github.io/blog/2023/personal/">enjoy</a> traveling, hiking, playing ultimate frisbee, scuba diving, Odissi dancing, and grilling.
+I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and am the Co-President of the Economics Graduate Student Association at UC Davis.
+
+I enjoy traveling, hiking, playing ultimate frisbee, scuba diving, Odissi dancing, and grilling. You can read more about my background and hobbies on my <a href="https://mitali-mathur.github.io/blog/2023/personal/">personal page</a>!
+
+You can contact me at mrmathur [at] ucdavis [dot] edu
