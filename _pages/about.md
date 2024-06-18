@@ -16,13 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an aspiring economist whose interests lie at the intersection of migration, development, and labor.
+I am an aspiring economist whose interests lie at the intersection of migration, development, and labor. I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and am a Co-President of the Economics Graduate Student Association at UC Davis.
 
 **Background:**
-Prior to beginning my Ph.D. in economics, I worked in the development sector on research projects related to migration, gender, data quality and behavioral nudges.
-
-**Current:**
-I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and am a Co-President of the Economics Graduate Student Association at UC Davis.
+Prior to beginning my Ph.D. in economics, I worked in the development sector at  <a href="https://www.idinsight.org/"> IDinsight </a> on research projects related to data quality, gender and behavioral nudges.
 
 **About Me:**
 I enjoy traveling, hiking, playing ultimate frisbee, scuba diving, Odissi dancing, and grilling. 
