@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 2nd year Economics Ph.D. student at UC Davis
+subtitle: 3rd year Economics Ph.D. student at UC Davis
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an aspiring economist whose interests lie at the intersection of migration, development, and labor. I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and am a Co-President of the Economics Graduate Student Association at UC Davis.
+I am an aspiring economist whose interests lie at the intersection of migration, development, and labor. I currently serve as an organizing committee member of the <a href="https://sites.google.com/view/the-economics-of-migration/home?authuser=0">Economics of Migration Junior Seminar Series</a> and am President of the Economics Graduate Student Association at UC Davis.
 
 **Background:**
 Prior to beginning my Ph.D. in economics, I worked in the development sector at  <a href="https://www.idinsight.org/"> IDinsight </a> on research projects related to data quality, gender and behavioral nudges.
