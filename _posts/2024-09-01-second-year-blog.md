@@ -38,7 +38,7 @@ For me personally, I found that second year highlighted some of my strengths and
     <li> I downloaded all papers to Zotero so that I could highlight them, annotate them, and easily cite them later </li>
     <li> For papers I had trouble with, I used AI tools like “Notebook LM” and the “AskPDF” extension to Zotero to answer the clarifying questions I had/confirm my understanding</li>
   </ul>
-  <li> <b>Critical Thinkin</b> - As a former debater, I absolutely loved the classes in which Professors asked us to “poke holes” in the papers we read. This required a sense of how the paper connected to the topics we were learning in class and a strong foundation in econometrics and applied methods (since I took applied micro courses). A few habits that helped:</li>
+  <li> <b>Critical Thinking</b> - As a former debater, I absolutely loved the classes in which Professors asked us to “poke holes” in the papers we read. This required a sense of how the paper connected to the topics we were learning in class and a strong foundation in econometrics and applied methods (since I took applied micro courses). A few habits that helped:</li>
   <ul>
     <li> I tried to avoid the “common” critiques of measurement error and external validity and think of weaknesses more specific to the paper</li>
     <li> I sucked up my pride and asked econometric questions to ensure I fully understood identification. I asked myself a few key questions: (1) what format is the data in, (2) how would I run this regression, (3) what are the main identifying assumptions needed, (4) how are these assumptions tested, (5) were there other assumptions they needed. If I couldn’t answer these questions, I’d try to ask instead of shying away.</li>
