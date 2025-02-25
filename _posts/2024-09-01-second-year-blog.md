@@ -19,10 +19,11 @@ I absolutely LOVED second year as it honestly reminded me why I applied to the P
     </div>
 </div>
 <div class="caption">
-    My UC Davis Econ PhD Year 1 Experience
+    My UC Davis Econ PhD Year 2 Experience
 </div>
 
 # Second Year Reflections
+## Academics
 To me, second year was all about building collegial relationships with Faculty, reading seminal papers/learning core theories defining my fields, and developing my research ideas.
 
 At UC Davis, second year consists of taking 9 field courses - 3 in one major field, 3 in another major field, two elective courses, and one economic history course. My two fields were labor and development, and I took electives in immigration history, machine learning, and a public economics course on optimal policy. Many of the courses in labor/public economics also cross-counted, exposing me to many topics at the intersection of the two fields. 
@@ -49,6 +50,7 @@ For me personally, I found that second year highlighted some of my strengths and
   </ul>
 </ul>
 
+## Work-Life Balance
 I found second year to be BUSIER than first year, which I didn’t think was possible! It’s a different kind of busy because there is less pressure from graduate requirements (no prelims), but more internal pressure because I was more passionate about the topics. I kept up with the same routines as first year and noted my accomplishments in a <a href="https://docs.google.com/spreadsheets/d/11ADMG0hM7a19roUm3qhdWuULX9GUy0cs2NIxXLKprJI/edit?gid=522889624#gid=522889624">running list</a> The list now includes more seminars, conferences, and some of my first grants awarded! Everyone's second year experience is different - but hopefully this provides an <i>example</i> of that types of activities you might expect!
 
 I’ll end on a social note. While first year had a TON of camaraderie since everyone in my cohort took the same classes and studied for prelims together, second year was socially a bit different. I am very lucky and thankful that our cohort remained close through birthday celebrations, lunches, and social events. But I was surprised that I saw many classmates less frequently if they were following different field tracks and taking different classes. Since I craved social interaction, I tried my best to make an extra effort and meet with the cohort mates not in my classes. 
