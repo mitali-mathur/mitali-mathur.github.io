@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 3rd year Economics Ph.D. student at UC Davis
+subtitle: Economics Ph.D. Candidate at UC Davis
 
 profile:
   align: right
