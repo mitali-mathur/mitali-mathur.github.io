@@ -48,9 +48,21 @@ nav_order: 3
   </tr>
   <tr>
     <td>UC Davis</td>
-    <td>ECN 102C: Analysis of Economics Data</td>
+    <td>ECN 102: Analysis of Economics Data</td>
     <td>Prof. Jenna Stearns</td>
     <td><a href="https://drive.google.com/file/d/1zv6ZRLiXDZuuSqrqUAfSfpOwCajfCCbZ/view?usp=sharing">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>UC Davis</td>
+    <td>ECN 102: Analysis of Economics Data</td>
+    <td>Instr. Remy Beauregard</td>
+    <td><a href="https://drive.google.com/file/d/1u3jh_Z6smjdP4fbS5SumBdgyGQwEKZk7/view?usp=sharing">Syllabus</a></td>
+  </tr>
+  <tr>
+    <td>UC Davis</td>
+    <td>ECN 167: Economic Development in Weak States </td>
+    <td>Prof. Diana Moreira and Prof. Arman Rezaee </td>
+    <td><a href="https://drive.google.com/file/d/1kgrNwiC8Ugw8o76aEOFDO6O6AO4Dm93A/view?usp=sharing">Syllabus</a></td>
   </tr>
   <tr>
     <td>Georgetown University</td>
@@ -64,8 +76,13 @@ nav_order: 3
 ---
 
 ### Student Evaluations
-Below are a few of the remarks from student evaluations. You can view my teaching evaluation record <a href="https://drive.google.com/file/d/11l45RRN8EK27ZunYFB2ibo1DZ16cWEa8/view?usp=sharing">here.</a>
+Below are a few of the remarks from student evaluations. I have scored 4.7/5 in terms of teaching assistant effectiveness (N = 663). 
+You can view my teaching evaluation record <a href="https://drive.google.com/file/d/11l45RRN8EK27ZunYFB2ibo1DZ16cWEa8/view?usp=sharing">here.</a>
 
+> "Mitali is one of the best TAs I have ever had. She is organized, fun and explaining things very clearly. I did not miss any of her sections because of how much I learned and how much I
+enjoyed learning the material there. Her way of instruction is one of my favorites. I give her 10/10 for everything, I would not have learned as much as I did without her."
+
+> "Mitali went above and beyond in helping us with difficult assignments and anything else we needed in the class. As a fourth year, this is the best section experience I've had in all of my time at Davis, and I have no complaints."
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
 hard to help student grow."
@@ -77,4 +94,5 @@ extremely well."
 
 > "She was super helpful and would go out of her way to present topics that we had mentioned having difficulties in. 10/10"
 
-> "Mitali went above and beyond in helping us with difficult assignments and anything else we needed in the class. As a fourth year, this is the best section experience I've had in all of my time at Davis, and I have no complaints."
+> "One of the only reasons I'll hopefully be passing this course this time around. Section was helpful and actually helped me learn, not just do, the homework to prepare for the exams and the
+take-home assignments."
