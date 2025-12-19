@@ -76,13 +76,21 @@ nav_order: 3
 ---
 
 ### Student Evaluations
-Below are a few of the remarks from student evaluations. I have scored 4.7/5 in terms of teaching assistant effectiveness (N = 663). 
+Below are a few of the remarks from student evaluations. I have scored 4.7/5 in terms of teaching assistant effectiveness (N = 691). 
 You can view my teaching evaluation record <a href="https://drive.google.com/file/d/11l45RRN8EK27ZunYFB2ibo1DZ16cWEa8/view?usp=sharing">here.</a>
 
 > "Mitali is one of the best TAs I have ever had. She is organized, fun and explaining things very clearly. I did not miss any of her sections because of how much I learned and how much I
 enjoyed learning the material there. Her way of instruction is one of my favorites. I give her 10/10 for everything, I would not have learned as much as I did without her."
 
 > "Mitali went above and beyond in helping us with difficult assignments and anything else we needed in the class. As a fourth year, this is the best section experience I've had in all of my time at Davis, and I have no complaints."
+
+> "She has been one of the most helpful TAs I have had. This class was a perfect fit for her. Every time I asked a question, she had experience with the same topic in her own research. I
+remember asking about a concept in class, and she explained a project she had done on the same issue. She connected it to our material in a way that motivated me to learn more.
+Her discussion sessions were well-organized and valuable. They were the first discussions where I felt like I was actually discussing the ideas and applying what we learned in class. I looked
+forward to her sections each week. GOAT TA, anyone would be lucky to have her as a TA"
+
+> "One of the only reasons I'll hopefully be passing this course this time around. Section was helpful and actually helped me learn, not just do, the homework to prepare for the exams and the
+take-home assignments."
 
 > "Mitali is the best TA ever. She is awesome. She expertly explains the course content in a way that students can understand, and then apply on their own. Truly a phenomenal TA who works
 hard to help student grow."
@@ -93,6 +101,3 @@ extremely well."
 > "Excellent TA! Her lecture notes were super super organized, which made studying her lectures easy and effective. Her efforts were appreciated."
 
 > "She was super helpful and would go out of her way to present topics that we had mentioned having difficulties in. 10/10"
-
-> "One of the only reasons I'll hopefully be passing this course this time around. Section was helpful and actually helped me learn, not just do, the homework to prepare for the exams and the
-take-home assignments."
