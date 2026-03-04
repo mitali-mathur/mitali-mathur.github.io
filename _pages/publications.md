@@ -87,16 +87,17 @@ document.addEventListener("DOMContentLoaded", function () {
         });
       }
 
-      // Also hide/show the year group headers
-      document.querySelectorAll(".publications .year").forEach(function (yearHeader) {
-        // Check if any visible entries exist within this group
-        var parent = yearHeader.closest(".publications") || yearHeader.parentElement;
-        // Year headers from jekyll-scholar are siblings to the ol
-        var nextEl = yearHeader.nextElementSibling;
-        if (nextEl && nextEl.tagName === "OL") {
+      // Hide/show the category group headers (h2.bibliography) and their lists
+      document.querySelectorAll(".publications h2.bibliography").forEach(function (header) {
+        var nextEl = header.nextElementSibling;
+        while (nextEl && nextEl.tagName !== "H2" && !nextEl.matches("ol.bibliography")) {
+          nextEl = nextEl.nextElementSibling;
+        }
+        if (nextEl && nextEl.matches("ol.bibliography")) {
           var visibleItems = nextEl.querySelectorAll(".bib-entry:not([style*='display: none'])");
-          yearHeader.style.display = visibleItems.length > 0 ? "" : "none";
-          nextEl.style.display = visibleItems.length > 0 ? "" : "none";
+          var show = visibleItems.length > 0;
+          header.style.display = show ? "" : "none";
+          nextEl.style.display = show ? "" : "none";
         }
       });
     });
