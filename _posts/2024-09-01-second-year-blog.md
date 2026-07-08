@@ -10,19 +10,8 @@ related_posts: false
 toc:
   sidebar: left
 ---
-# Second Year Video
-I absolutely LOVED second year as it honestly reminded me why I applied to the PhD in the first place. The year was filled with reading, writing, presenting, attending seminars, and of course - some of the activities that kept me sane! 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/UC Davis - Year 2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-<div class="caption">
-    My UC Davis Econ PhD Year 2 Experience
-</div>
-
-# Second Year Reflections
+# Reflections
 ## Academics
 To me, second year was all about building collegial relationships with Faculty, reading seminal papers/learning core theories defining my fields, and developing my research ideas.
 
@@ -56,3 +45,15 @@ I found second year to be BUSIER than first year, which I didn’t think was pos
 I’ll end on a social note. While first year had a TON of camaraderie since everyone in my cohort took the same classes and studied for prelims together, second year was socially a bit different. I am very lucky and thankful that our cohort remained close through birthday celebrations, lunches, and social events. But I was surprised that I saw many classmates less frequently if they were following different field tracks and taking different classes. Since I craved social interaction, I tried my best to make an extra effort and meet with the cohort mates not in my classes. 
 
 > Overall, I am very satisfied with second year and feel anxious, but prepared for the “leap” to research!
+
+# Second Year Video
+Here's a video of the moments of joy that defined my second year:
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/UC Davis - Year 2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    My UC Davis Econ PhD Year 2 Experience
+</div>
