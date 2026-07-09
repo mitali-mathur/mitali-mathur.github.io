@@ -18,7 +18,7 @@
   <div id="{{entry.key}}" class="{% if entry.preview %}col-sm-9{% else %}col-sm-12{% endif %}">
 
     <!-- (2) Title -->
-    <div class="title" style="font-weight: 700;">{{entry.title}}</div>
+    <div class="title" style="font-weight: 700; font-size: calc(1rem + 4pt);">{{entry.title}}</div>
 
     <!-- (3) Authors (self in bold, co-authors optionally linked) -->
     {%- if entry.author_array and entry.author_array.size > 0 -%}
@@ -111,7 +111,7 @@
 
     <!-- (4) Presented at (italics) -->
     {%- if presentations_v != "" -%}
-    <div class="presentations" style="font-style: italic; margin-top: 0.4rem;">Presented at: {{ presentations_v }}</div>
+    <div class="presentations" style="font-style: italic; font-size: calc(1rem - 2pt); margin-top: 0.4rem;">Presented at: {{ presentations_v }}</div>
     {%- endif -%}
 
     <!-- (5) Funding -->
