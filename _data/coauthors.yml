@@ -9,6 +9,10 @@
 #   - firstname: ["First", "F.", "First Middle"]   # list every variant you might type in papers.bib
 #     url: https://their-website.com
 
+"Mathur":
+  - firstname: ["Mitali", "M."]
+    url: https://mitali-mathur.github.io/ 
+
 "Peri":
   - firstname: ["Giovanni", "G."]
     url: https://giovanniperi.ucdavis.edu/
