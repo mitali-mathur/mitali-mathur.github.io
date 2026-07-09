@@ -1,34 +1,34 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Co-author links for the Research/Papers page.
+# Any author you list here (matched by LAST name + a first-name variant)
+# becomes a clickable link to their website in the author list on the Papers page.
+# Authors NOT listed here simply render as plain text -- that's fine.
+#
+# Format (last name is the top-level key):
+#
+# "LastName":
+#   - firstname: ["First", "F.", "First Middle"]   # list every variant you might type in papers.bib
+#     url: https://their-website.com
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Peri":
+  - firstname: ["Giovanni", "G."]
+    url: https://giovanniperi.ucdavis.edu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Basso":
+  - firstname: ["Gaetano", "G."]
+    url: https://sites.google.com/view/gaetanobasso/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Nakamura":
+  - firstname: ["Shotaro", "s."]
+    url: https://sites.google.com/view/shotaronakamura/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Michuda":
+  - firstname: ["Aleksandr", "A."]
+    url: https://amichuda.github.io/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Stearns":
+  - firstname: ["Jenna", "J."]
+    url: https://sites.google.com/site/stearnsje/ 
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Yang":
+  - firstname: ["Keer", "K."]
+    url: https://keeryang.github.io/ 
