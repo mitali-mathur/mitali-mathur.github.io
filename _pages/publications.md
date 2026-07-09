@@ -43,7 +43,7 @@ nav_order: 2
   <button class="tab-btn" data-filter="Social Protection">Social Protection</button>
   <button class="tab-btn" data-filter="Migration">Migration</button>
   <button class="tab-btn" data-filter="Gig Work">Gig Work</button>
-  <button class="tab-btn" data-filter="Data/Methods">Data/Methods</button>
+  <button class="tab-btn" data-filter="Data Quality & Methods">Data Quality & Methods</button>
   <button class="tab-btn" data-filter="Gender">Gender</button>
   <button class="tab-btn" data-filter="Behavioral Nudges">Behavioral Nudges</button>
 </div>
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var buttons = document.querySelectorAll(".research-tabs .tab-btn");
   var entries = document.querySelectorAll(".bib-entry");
   // Define the category order for the "All" tab
-  var categoryOrder = ["Social Protection", "Migration", "Gig Work", "Data/Methods", "Gender", "Behavioral Nudges"];
+  var categoryOrder = ["Social Protection", "Migration", "Gig Work", "Data Quality & Methods", "Gender", "Behavioral Nudges"];
 
   buttons.forEach(function (btn) {
     btn.addEventListener("click", function () {
