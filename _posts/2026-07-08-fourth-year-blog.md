@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fourth Year Feelings
-date: 2025-09-01
+date: 2026-07-08
 description: Reflections on adaptation and AI
 tags:
 categories:
