@@ -15,6 +15,18 @@ toc:
 
 I knew stepping into third year that it would be different. No classes. Just research. The goal of third year based on our graduate studies requirements was simple: make progress towards a research agenda that can culminate in a dissertation prospectus and paper, then take the oral exam. At the end of our second year, we had a meeting to prepare us for the “transition to research,” which seemed daunting at the time. We were given useful advice regarding how to choose our advisor, how to structure our time, and how to know what a “good” idea is. Below, I share some reflections based on my experience. 
 
+# Third Year Video
+My moments of joy from third year are captured in this one-second-a-day video: 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/UC Davis - Year 3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    My UC Davis Econ PhD Year 3 Experience
+</div>
+
 # Reflections
 ## The "Transition to Research"
 
@@ -50,14 +62,3 @@ Writing the research prospectus and preparing for the Oral Qualifying Exam was c
 I really enjoyed third year and agree to what one of my mentors said: "we don't know what happens, but it takes about a year." I noted my activities in a <a href="https://docs.google.com/spreadsheets/d/11ADMG0hM7a19roUm3qhdWuULX9GUy0cs2NIxXLKprJI/edit?gid=522889624#gid=522889624">running list</a>. While at times I felt lost, upon reflection, it looks like I filled my year! 
 
 
-# Third Year Video
-My moments of joy from third year are captured in this one-second-a-day video: 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/UC Davis - Year 3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-<div class="caption">
-    My UC Davis Econ PhD Year 3 Experience
-</div>

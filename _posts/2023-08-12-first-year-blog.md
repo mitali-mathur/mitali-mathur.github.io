@@ -10,6 +10,19 @@ related_posts: false
 toc:
   sidebar: left
 ---
+
+# First Year Video
+Here is a quick compilation of some of the fun moments I experienced with the department, my cohort, my friends, and my family. 
+There was indeed a <b>lot</b> of studying every day, but there were also many small outlets of joy that I was lucky enough to find and tried to showcase in this video :)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/UC Davis - Year 1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    My UC Davis Econ PhD Year 1 Experience
+</div>
+
 # Overview
 I wrote this three-part series to share <i><b>reflections, routines, and resources</b></i> that helped me feel happy, motivated, and disciplined throughout the first year of my econ PhD. 
 
@@ -31,14 +44,3 @@ View the three parts here:
   <li> <a href="https://mitali-mathur.github.io/blog/2023/first-year-resources/">Resources:</a> This post includes all the study guides I made and organizational tools for streamlining studying. </li>
 </ul>
 
-# First Year Video
-Here is a quick compilation of some of the fun moments I experienced with the department, my cohort, my friends, and my family. 
-There was indeed a <b>lot</b> of studying every day, but there were also many small outlets of joy that I was lucky enough to find and tried to showcase in this video :)
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/UC Davis - Year 1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-<div class="caption">
-    My UC Davis Econ PhD Year 1 Experience
-</div>

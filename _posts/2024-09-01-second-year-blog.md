@@ -11,6 +11,18 @@ toc:
   sidebar: left
 ---
 
+# Second Year Video
+Here's a video of the moments of joy that defined my second year:
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/UC Davis - Year 2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    My UC Davis Econ PhD Year 2 Experience
+</div>
+
 # Reflections
 ## Academics
 To me, second year was all about building collegial relationships with Faculty, reading seminal papers/learning core theories defining my fields, and developing my research ideas.
@@ -46,14 +58,3 @@ I’ll end on a social note. While first year had a TON of camaraderie since eve
 
 > Overall, I am very satisfied with second year and feel anxious, but prepared for the “leap” to research!
 
-# Second Year Video
-Here's a video of the moments of joy that defined my second year:
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/UC Davis - Year 2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-<div class="caption">
-    My UC Davis Econ PhD Year 2 Experience
-</div>
